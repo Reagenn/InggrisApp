@@ -1,0 +1,36 @@
+{
+ "speaking": {
+  "A1": [
+   "Hello, my name is Rina.",
+   "I go to school every day.",
+   "I like apples and bananas.",
+   "This is my book.",
+   "I am happy today.",
+   "She is my best friend."
+  ],
+  "A2": [
+   "I was walking home when it started to rain.",
+   "I have lived in Jakarta for five years.",
+   "If it rains tomorrow, we will stay at home.",
+   "She used to play football when she was young.",
+   "I enjoy reading books in the evening.",
+   "We are going to visit our grandmother on Sunday."
+  ],
+  "B1": [
+   "I have been studying English for two years.",
+   "The report has been finished by the team.",
+   "If I had more time, I would travel around Indonesia.",
+   "She said that she was very tired.",
+   "The man who lives next door is a doctor.",
+   "I have just finished my homework."
+  ],
+  "B2": [
+   "If I had studied harder, I would have passed the exam.",
+   "Never have I seen such a beautiful place.",
+   "I wish I had more time to practise.",
+   "He asked me where I lived.",
+   "Despite the rain, we went out.",
+   "I had my car repaired yesterday."
+  ]
+ }
+}

@@ -1,0 +1,3035 @@
+{
+ "stories": [
+  {
+   "id": "s-a1-1",
+   "level": "A1",
+   "title": "A Morning at Home",
+   "text": "Rina wakes up at six o'clock every morning. She opens her eyes and smiles. The sun is bright and the birds sing outside her window. She gets up, washes her face, and puts on her school clothes. In the kitchen, her mother is cooking rice and eggs. The food smells very good. Rina eats breakfast with her family. Her little brother drinks milk and talks about his new toy car. After breakfast, Rina brushes her teeth and takes her bag. She says goodbye to her mother and walks to school with her friend Sari. They talk and laugh on the way. At school, the teacher says, Good morning, class! Rina sits at her desk and opens her book. She likes school because she can learn new things every day and play with her friends in the park after class. She also likes her teacher, Mrs. Dewi, because Mrs. Dewi is kind and helps every student in the class.",
+   "summary": "Rina bangun pagi, sarapan bersama keluarga, lalu berjalan ke sekolah bersama temannya. Di sekolah ia belajar dan bermain dengan teman-temannya.",
+   "questions": [
+    {
+     "q": "What time does Rina wake up?",
+     "options": [
+      "At six o'clock",
+      "At seven o'clock",
+      "At eight o'clock",
+      "At five o'clock"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Who does Rina walk to school with?",
+     "options": [
+      "Her friend Sari",
+      "Her mother",
+      "Her little brother",
+      "Her teacher"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Why does Rina like school?",
+     "options": [
+      "She can learn new things and play with friends",
+      "She likes the food",
+      "She likes to sleep",
+      "She likes the bus"
+     ],
+     "answer": 0
+    }
+   ],
+   "vocabWords": [
+    {
+     "word": "up",
+     "idn": "ke atas",
+     "level": "A1"
+    },
+    {
+     "word": "at",
+     "idn": "di",
+     "level": "A1"
+    },
+    {
+     "word": "six",
+     "idn": "enam",
+     "level": "A1"
+    },
+    {
+     "word": "every",
+     "idn": "setiap",
+     "level": "A1"
+    },
+    {
+     "word": "morning",
+     "idn": "pagi",
+     "level": "A1"
+    },
+    {
+     "word": "she",
+     "idn": "dia",
+     "level": "A1"
+    },
+    {
+     "word": "her",
+     "idn": "dia perempuan",
+     "level": "A1"
+    },
+    {
+     "word": "and",
+     "idn": "dan",
+     "level": "A1"
+    },
+    {
+     "word": "sun",
+     "idn": "matahari",
+     "level": "A1"
+    },
+    {
+     "word": "bright",
+     "idn": "cerah",
+     "level": "A2"
+    },
+    {
+     "word": "sing",
+     "idn": "bernyanyi",
+     "level": "A1"
+    },
+    {
+     "word": "outside",
+     "idn": "di luar",
+     "level": "A1"
+    },
+    {
+     "word": "window",
+     "idn": "jendela",
+     "level": "A1"
+    },
+    {
+     "word": "face",
+     "idn": "wajah",
+     "level": "A1"
+    },
+    {
+     "word": "on",
+     "idn": "di atas",
+     "level": "A1"
+    },
+    {
+     "word": "school",
+     "idn": "sekolah",
+     "level": "A1"
+    },
+    {
+     "word": "clothes",
+     "idn": "pakaian",
+     "level": "A1"
+    },
+    {
+     "word": "in",
+     "idn": "di",
+     "level": "A1"
+    },
+    {
+     "word": "kitchen",
+     "idn": "dapur",
+     "level": "A1"
+    },
+    {
+     "word": "mother",
+     "idn": "ibu",
+     "level": "A1"
+    },
+    {
+     "word": "cooking",
+     "idn": "memasak",
+     "level": "A1"
+    },
+    {
+     "word": "rice",
+     "idn": "nasi",
+     "level": "A1"
+    },
+    {
+     "word": "food",
+     "idn": "makanan",
+     "level": "A1"
+    },
+    {
+     "word": "very",
+     "idn": "sangat",
+     "level": "A1"
+    },
+    {
+     "word": "good",
+     "idn": "bagus",
+     "level": "A1"
+    },
+    {
+     "word": "breakfast",
+     "idn": "sarapan",
+     "level": "A1"
+    },
+    {
+     "word": "with",
+     "idn": "dengan",
+     "level": "A1"
+    },
+    {
+     "word": "family",
+     "idn": "keluarga",
+     "level": "A1"
+    },
+    {
+     "word": "little",
+     "idn": "kecil",
+     "level": "A1"
+    },
+    {
+     "word": "brother",
+     "idn": "saudara laki-laki",
+     "level": "A1"
+    },
+    {
+     "word": "milk",
+     "idn": "susu",
+     "level": "A1"
+    },
+    {
+     "word": "about",
+     "idn": "tentang",
+     "level": "A1"
+    },
+    {
+     "word": "his",
+     "idn": "miliknya",
+     "level": "A1"
+    },
+    {
+     "word": "new",
+     "idn": "baru",
+     "level": "A1"
+    },
+    {
+     "word": "toy",
+     "idn": "mainan",
+     "level": "A2"
+    },
+    {
+     "word": "car",
+     "idn": "mobil",
+     "level": "A1"
+    },
+    {
+     "word": "after",
+     "idn": "setelah",
+     "level": "A1"
+    },
+    {
+     "word": "bag",
+     "idn": "tas",
+     "level": "A1"
+    },
+    {
+     "word": "goodbye",
+     "idn": "selamat tinggal",
+     "level": "A1"
+    },
+    {
+     "word": "to",
+     "idn": "ke",
+     "level": "A1"
+    },
+    {
+     "word": "friend",
+     "idn": "teman",
+     "level": "A1"
+    },
+    {
+     "word": "they",
+     "idn": "mereka",
+     "level": "A1"
+    },
+    {
+     "word": "talk",
+     "idn": "berbicara",
+     "level": "A1"
+    },
+    {
+     "word": "laugh",
+     "idn": "tertawa",
+     "level": "A1"
+    },
+    {
+     "word": "way",
+     "idn": "jalan",
+     "level": "A1"
+    },
+    {
+     "word": "teacher",
+     "idn": "guru",
+     "level": "A1"
+    },
+    {
+     "word": "class",
+     "idn": "kelas",
+     "level": "A1"
+    },
+    {
+     "word": "desk",
+     "idn": "meja",
+     "level": "A1"
+    },
+    {
+     "word": "book",
+     "idn": "buku",
+     "level": "A1"
+    },
+    {
+     "word": "because",
+     "idn": "karena",
+     "level": "A1"
+    },
+    {
+     "word": "can",
+     "idn": "dapat",
+     "level": "A1"
+    },
+    {
+     "word": "learn",
+     "idn": "belajar",
+     "level": "A1"
+    },
+    {
+     "word": "day",
+     "idn": "hari",
+     "level": "A1"
+    },
+    {
+     "word": "play",
+     "idn": "bermain",
+     "level": "A1"
+    },
+    {
+     "word": "park",
+     "idn": "taman",
+     "level": "A1"
+    },
+    {
+     "word": "also",
+     "idn": "juga",
+     "level": "A1"
+    },
+    {
+     "word": "student",
+     "idn": "siswa",
+     "level": "A1"
+    }
+   ],
+   "wordCount": 158
+  },
+  {
+   "id": "s-a1-2",
+   "level": "A1",
+   "title": "At the Market",
+   "text": "On Sunday morning, Budi goes to the market with his father. The market is big and busy. There are many people, and there is a lot of food. Budi sees red apples, yellow bananas, and green vegetables. His father buys rice, eggs, and fish. Budi likes the fish because they are fresh. A woman sells flowers near the door. The flowers are beautiful and smell very sweet. Budi buys one flower for his mother. She will be very happy. After that, they drink cold tea at a small shop. The tea is sweet and cold. Budi is happy because he can help his father. On the way home, they walk slowly and talk about the food they bought. At home, his mother cooks a big lunch for the family. They also buy some bread and cheese for dinner, and Budi carries the small bag all the way home. His mother smiles when she sees the flower and puts it in a glass of water on the table.",
+   "summary": "Budi pergi ke pasar bersama ayahnya pada hari Minggu. Mereka membeli makanan dan bunga untuk ibu, lalu pulang dan makan siang bersama.",
+   "questions": [
+    {
+     "q": "When does Budi go to the market?",
+     "options": [
+      "On Sunday morning",
+      "On Monday morning",
+      "On Saturday night",
+      "On Friday evening"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What does Budi buy for his mother?",
+     "options": [
+      "A flower",
+      "A fish",
+      "A book",
+      "A toy car"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What do they drink at the small shop?",
+     "options": [
+      "Cold tea",
+      "Hot coffee",
+      "Milk",
+      "Juice"
+     ],
+     "answer": 0
+    }
+   ],
+   "vocabWords": [
+    {
+     "word": "on",
+     "idn": "di atas",
+     "level": "A1"
+    },
+    {
+     "word": "Sunday",
+     "idn": "Minggu",
+     "level": "A1"
+    },
+    {
+     "word": "morning",
+     "idn": "pagi",
+     "level": "A1"
+    },
+    {
+     "word": "to",
+     "idn": "ke",
+     "level": "A1"
+    },
+    {
+     "word": "market",
+     "idn": "pasar",
+     "level": "A1"
+    },
+    {
+     "word": "with",
+     "idn": "dengan",
+     "level": "A1"
+    },
+    {
+     "word": "his",
+     "idn": "miliknya",
+     "level": "A1"
+    },
+    {
+     "word": "father",
+     "idn": "ayah",
+     "level": "A1"
+    },
+    {
+     "word": "big",
+     "idn": "besar",
+     "level": "A1"
+    },
+    {
+     "word": "and",
+     "idn": "dan",
+     "level": "A1"
+    },
+    {
+     "word": "busy",
+     "idn": "sibuk",
+     "level": "A1"
+    },
+    {
+     "word": "there",
+     "idn": "di sana",
+     "level": "A1"
+    },
+    {
+     "word": "many",
+     "idn": "banyak",
+     "level": "A1"
+    },
+    {
+     "word": "people",
+     "idn": "orang",
+     "level": "A1"
+    },
+    {
+     "word": "lot",
+     "idn": "banyak",
+     "level": "A1"
+    },
+    {
+     "word": "of",
+     "idn": "dari",
+     "level": "A1"
+    },
+    {
+     "word": "food",
+     "idn": "makanan",
+     "level": "A1"
+    },
+    {
+     "word": "red",
+     "idn": "merah",
+     "level": "A1"
+    },
+    {
+     "word": "yellow",
+     "idn": "kuning",
+     "level": "A1"
+    },
+    {
+     "word": "green",
+     "idn": "hijau",
+     "level": "A1"
+    },
+    {
+     "word": "rice",
+     "idn": "nasi",
+     "level": "A1"
+    },
+    {
+     "word": "fish",
+     "idn": "ikan",
+     "level": "A1"
+    },
+    {
+     "word": "because",
+     "idn": "karena",
+     "level": "A1"
+    },
+    {
+     "word": "they",
+     "idn": "mereka",
+     "level": "A1"
+    },
+    {
+     "word": "fresh",
+     "idn": "segar",
+     "level": "A2"
+    },
+    {
+     "word": "woman",
+     "idn": "perempuan",
+     "level": "A1"
+    },
+    {
+     "word": "near",
+     "idn": "dekat",
+     "level": "A1"
+    },
+    {
+     "word": "door",
+     "idn": "pintu",
+     "level": "A1"
+    },
+    {
+     "word": "beautiful",
+     "idn": "indah",
+     "level": "A1"
+    },
+    {
+     "word": "smell",
+     "idn": "bau",
+     "level": "A2"
+    },
+    {
+     "word": "very",
+     "idn": "sangat",
+     "level": "A1"
+    },
+    {
+     "word": "sweet",
+     "idn": "manis",
+     "level": "A2"
+    },
+    {
+     "word": "one",
+     "idn": "satu",
+     "level": "A1"
+    },
+    {
+     "word": "flower",
+     "idn": "bunga",
+     "level": "A1"
+    },
+    {
+     "word": "for",
+     "idn": "untuk",
+     "level": "A1"
+    },
+    {
+     "word": "mother",
+     "idn": "ibu",
+     "level": "A1"
+    },
+    {
+     "word": "she",
+     "idn": "dia",
+     "level": "A1"
+    },
+    {
+     "word": "will",
+     "idn": "akan",
+     "level": "A1"
+    },
+    {
+     "word": "be",
+     "idn": "menjadi",
+     "level": "A1"
+    },
+    {
+     "word": "happy",
+     "idn": "bahagia",
+     "level": "A1"
+    },
+    {
+     "word": "after",
+     "idn": "setelah",
+     "level": "A1"
+    },
+    {
+     "word": "that",
+     "idn": "itu",
+     "level": "A1"
+    },
+    {
+     "word": "drink",
+     "idn": "minum",
+     "level": "A1"
+    },
+    {
+     "word": "cold",
+     "idn": "dingin",
+     "level": "A1"
+    },
+    {
+     "word": "tea",
+     "idn": "teh",
+     "level": "A1"
+    },
+    {
+     "word": "at",
+     "idn": "di",
+     "level": "A1"
+    },
+    {
+     "word": "small",
+     "idn": "kecil",
+     "level": "A1"
+    },
+    {
+     "word": "shop",
+     "idn": "toko",
+     "level": "A1"
+    },
+    {
+     "word": "he",
+     "idn": "dia",
+     "level": "A1"
+    },
+    {
+     "word": "can",
+     "idn": "dapat",
+     "level": "A1"
+    },
+    {
+     "word": "help",
+     "idn": "membantu",
+     "level": "A1"
+    },
+    {
+     "word": "way",
+     "idn": "jalan",
+     "level": "A1"
+    },
+    {
+     "word": "home",
+     "idn": "rumah",
+     "level": "A1"
+    },
+    {
+     "word": "walk",
+     "idn": "berjalan",
+     "level": "A1"
+    },
+    {
+     "word": "slowly",
+     "idn": "dengan lambat",
+     "level": "A2"
+    },
+    {
+     "word": "talk",
+     "idn": "berbicara",
+     "level": "A1"
+    },
+    {
+     "word": "about",
+     "idn": "tentang",
+     "level": "A1"
+    },
+    {
+     "word": "lunch",
+     "idn": "makan siang",
+     "level": "A1"
+    },
+    {
+     "word": "family",
+     "idn": "keluarga",
+     "level": "A1"
+    },
+    {
+     "word": "also",
+     "idn": "juga",
+     "level": "A1"
+    },
+    {
+     "word": "buy",
+     "idn": "membeli",
+     "level": "A1"
+    },
+    {
+     "word": "some",
+     "idn": "sebagian",
+     "level": "A1"
+    },
+    {
+     "word": "bread",
+     "idn": "roti",
+     "level": "A1"
+    },
+    {
+     "word": "cheese",
+     "idn": "keju",
+     "level": "A1"
+    },
+    {
+     "word": "dinner",
+     "idn": "makan malam",
+     "level": "A1"
+    },
+    {
+     "word": "bag",
+     "idn": "tas",
+     "level": "A1"
+    },
+    {
+     "word": "all",
+     "idn": "semua",
+     "level": "A1"
+    },
+    {
+     "word": "when",
+     "idn": "kapan",
+     "level": "A1"
+    },
+    {
+     "word": "IT",
+     "idn": "teknologi informasi",
+     "level": "B1"
+    },
+    {
+     "word": "in",
+     "idn": "di",
+     "level": "A1"
+    },
+    {
+     "word": "glass",
+     "idn": "kaca",
+     "level": "A1"
+    },
+    {
+     "word": "water",
+     "idn": "air",
+     "level": "A1"
+    },
+    {
+     "word": "table",
+     "idn": "meja",
+     "level": "A1"
+    }
+   ],
+   "wordCount": 167
+  },
+  {
+   "id": "s-a2-1",
+   "level": "A2",
+   "title": "The Lost Wallet",
+   "text": "Last Saturday, Andi was walking home from school when he saw a brown wallet on the road. He picked it up and opened it. Inside, there was some money, a photo, and an ID card. The name on the card was Mr. Hartono. Andi did not know him, but he wanted to help. He went to the address on the card. It was a small house near the park. An old man opened the door. When Andi showed him the wallet, the old man's eyes became bright with happiness. He said, Thank you so much! I lost it this morning, and I was very worried. Andi smiled and said it was no problem. The old man gave Andi some cake and a glass of milk. Andi went home feeling very happy because he had helped someone. That night, he told his family the story, and they were proud of him.",
+   "summary": "Andi menemukan dompet di jalan, lalu mengembalikannya kepada pemiliknya, Pak Hartono. Pemiliknya sangat senang dan berterima kasih.",
+   "questions": [
+    {
+     "q": "Where did Andi find the wallet?",
+     "options": [
+      "On the road",
+      "At school",
+      "In the park",
+      "At the market"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What was inside the wallet?",
+     "options": [
+      "Money, a photo, and an ID card",
+      "Only money",
+      "A phone and keys",
+      "Books and pens"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "How did Andi feel after helping?",
+     "options": [
+      "Very happy",
+      "Very tired",
+      "Very angry",
+      "Very sad"
+     ],
+     "answer": 0
+    }
+   ],
+   "vocabWords": [
+    {
+     "word": "Saturday",
+     "idn": "Sabtu",
+     "level": "A1"
+    },
+    {
+     "word": "home",
+     "idn": "rumah",
+     "level": "A1"
+    },
+    {
+     "word": "from",
+     "idn": "dari",
+     "level": "A1"
+    },
+    {
+     "word": "school",
+     "idn": "sekolah",
+     "level": "A1"
+    },
+    {
+     "word": "when",
+     "idn": "kapan",
+     "level": "A1"
+    },
+    {
+     "word": "he",
+     "idn": "dia",
+     "level": "A1"
+    },
+    {
+     "word": "brown",
+     "idn": "cokelat",
+     "level": "A1"
+    },
+    {
+     "word": "on",
+     "idn": "di atas",
+     "level": "A1"
+    },
+    {
+     "word": "road",
+     "idn": "jalan",
+     "level": "A1"
+    },
+    {
+     "word": "IT",
+     "idn": "teknologi informasi",
+     "level": "B1"
+    },
+    {
+     "word": "up",
+     "idn": "ke atas",
+     "level": "A1"
+    },
+    {
+     "word": "and",
+     "idn": "dan",
+     "level": "A1"
+    },
+    {
+     "word": "inside",
+     "idn": "di dalam",
+     "level": "A2"
+    },
+    {
+     "word": "there",
+     "idn": "di sana",
+     "level": "A1"
+    },
+    {
+     "word": "some",
+     "idn": "sebagian",
+     "level": "A1"
+    },
+    {
+     "word": "money",
+     "idn": "uang",
+     "level": "A1"
+    },
+    {
+     "word": "photo",
+     "idn": "foto",
+     "level": "A1"
+    },
+    {
+     "word": "card",
+     "idn": "kartu",
+     "level": "A1"
+    },
+    {
+     "word": "name",
+     "idn": "nama",
+     "level": "A1"
+    },
+    {
+     "word": "not",
+     "idn": "tidak",
+     "level": "A1"
+    },
+    {
+     "word": "know",
+     "idn": "tahu",
+     "level": "A1"
+    },
+    {
+     "word": "him",
+     "idn": "dia",
+     "level": "A1"
+    },
+    {
+     "word": "but",
+     "idn": "tetapi",
+     "level": "A1"
+    },
+    {
+     "word": "to",
+     "idn": "ke",
+     "level": "A1"
+    },
+    {
+     "word": "help",
+     "idn": "membantu",
+     "level": "A1"
+    },
+    {
+     "word": "address",
+     "idn": "alamat",
+     "level": "A1"
+    },
+    {
+     "word": "small",
+     "idn": "kecil",
+     "level": "A1"
+    },
+    {
+     "word": "house",
+     "idn": "tempat tinggal",
+     "level": "A1"
+    },
+    {
+     "word": "near",
+     "idn": "dekat",
+     "level": "A1"
+    },
+    {
+     "word": "park",
+     "idn": "taman",
+     "level": "A1"
+    },
+    {
+     "word": "old",
+     "idn": "tua",
+     "level": "A1"
+    },
+    {
+     "word": "man",
+     "idn": "pria",
+     "level": "A1"
+    },
+    {
+     "word": "door",
+     "idn": "pintu",
+     "level": "A1"
+    },
+    {
+     "word": "bright",
+     "idn": "cerah",
+     "level": "A2"
+    },
+    {
+     "word": "with",
+     "idn": "dengan",
+     "level": "A1"
+    },
+    {
+     "word": "happiness",
+     "idn": "kebahagiaan",
+     "level": "B1"
+    },
+    {
+     "word": "thank",
+     "idn": "berterima kasih",
+     "level": "A1"
+    },
+    {
+     "word": "you",
+     "idn": "kamu",
+     "level": "A1"
+    },
+    {
+     "word": "so",
+     "idn": "jadi",
+     "level": "A1"
+    },
+    {
+     "word": "much",
+     "idn": "banyak",
+     "level": "A1"
+    },
+    {
+     "word": "I",
+     "idn": "saya",
+     "level": "A1"
+    },
+    {
+     "word": "lost",
+     "idn": "hilang",
+     "level": "A2"
+    },
+    {
+     "word": "this",
+     "idn": "ini",
+     "level": "A1"
+    },
+    {
+     "word": "morning",
+     "idn": "pagi",
+     "level": "A1"
+    },
+    {
+     "word": "very",
+     "idn": "sangat",
+     "level": "A1"
+    },
+    {
+     "word": "worried",
+     "idn": "khawatir",
+     "level": "A2"
+    },
+    {
+     "word": "no",
+     "idn": "tidak",
+     "level": "A1"
+    },
+    {
+     "word": "problem",
+     "idn": "masalah",
+     "level": "A1"
+    },
+    {
+     "word": "cake",
+     "idn": "kue",
+     "level": "A1"
+    },
+    {
+     "word": "glass",
+     "idn": "kaca",
+     "level": "A1"
+    },
+    {
+     "word": "of",
+     "idn": "dari",
+     "level": "A1"
+    },
+    {
+     "word": "milk",
+     "idn": "susu",
+     "level": "A1"
+    },
+    {
+     "word": "feeling",
+     "idn": "perasaan",
+     "level": "A1"
+    },
+    {
+     "word": "happy",
+     "idn": "bahagia",
+     "level": "A1"
+    },
+    {
+     "word": "because",
+     "idn": "karena",
+     "level": "A1"
+    },
+    {
+     "word": "someone",
+     "idn": "seseorang",
+     "level": "A1"
+    },
+    {
+     "word": "that",
+     "idn": "itu",
+     "level": "A1"
+    },
+    {
+     "word": "night",
+     "idn": "malam",
+     "level": "A1"
+    },
+    {
+     "word": "his",
+     "idn": "miliknya",
+     "level": "A1"
+    },
+    {
+     "word": "family",
+     "idn": "keluarga",
+     "level": "A1"
+    },
+    {
+     "word": "story",
+     "idn": "cerita",
+     "level": "A1"
+    },
+    {
+     "word": "they",
+     "idn": "mereka",
+     "level": "A1"
+    },
+    {
+     "word": "proud",
+     "idn": "bangga",
+     "level": "B1"
+    }
+   ],
+   "wordCount": 150
+  },
+  {
+   "id": "s-a2-2",
+   "level": "A2",
+   "title": "Learning to Cook",
+   "text": "Maya has always wanted to learn how to cook. Last month, she decided to try. At first, everything was difficult. She burned the rice and the soup was too salty. But she did not give up. Every weekend, she watched cooking videos and practised with her mother. Her mother taught her how to cut vegetables safely and how to use the right amount of salt. Slowly, Maya became better. One day, she cooked fried rice for her whole family. Everyone said it was delicious. Her father asked for a second plate. Maya felt very proud. Now she cooks dinner every Sunday. She wants to learn more dishes, and she dreams of opening a small restaurant one day. She knows it will take time, but she believes that practice makes perfect. Her friends often ask her for the recipe, and Maya happily shares it with them. She also wants to learn how to bake cakes and make soup from her grandmother's old cookbook.",
+   "summary": "Maya belajar memasak dari ibunya dan video memasak. Setelah banyak berlatih, ia berhasil memasak nasi goreng yang enak untuk keluarganya.",
+   "questions": [
+    {
+     "q": "What went wrong at first?",
+     "options": [
+      "She burned the rice and the soup was too salty",
+      "She broke the plates",
+      "She forgot to buy food",
+      "She cut her hand"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "How did Maya learn to cook?",
+     "options": [
+      "By watching videos and practising with her mother",
+      "By reading novels",
+      "By going to school",
+      "By asking her friends"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What does Maya dream of?",
+     "options": [
+      "Opening a small restaurant",
+      "Becoming a teacher",
+      "Travelling the world",
+      "Buying a new house"
+     ],
+     "answer": 0
+    }
+   ],
+   "vocabWords": [
+    {
+     "word": "always",
+     "idn": "selalu",
+     "level": "A1"
+    },
+    {
+     "word": "to",
+     "idn": "ke",
+     "level": "A1"
+    },
+    {
+     "word": "learn",
+     "idn": "belajar",
+     "level": "A1"
+    },
+    {
+     "word": "how",
+     "idn": "bagaimana",
+     "level": "A1"
+    },
+    {
+     "word": "cook",
+     "idn": "memasak",
+     "level": "A1"
+    },
+    {
+     "word": "month",
+     "idn": "bulan",
+     "level": "A1"
+    },
+    {
+     "word": "she",
+     "idn": "dia",
+     "level": "A1"
+    },
+    {
+     "word": "try",
+     "idn": "mencoba",
+     "level": "A1"
+    },
+    {
+     "word": "at",
+     "idn": "di",
+     "level": "A1"
+    },
+    {
+     "word": "first",
+     "idn": "pertama",
+     "level": "A1"
+    },
+    {
+     "word": "everything",
+     "idn": "segalanya",
+     "level": "A1"
+    },
+    {
+     "word": "difficult",
+     "idn": "sulit",
+     "level": "A1"
+    },
+    {
+     "word": "rice",
+     "idn": "nasi",
+     "level": "A1"
+    },
+    {
+     "word": "and",
+     "idn": "dan",
+     "level": "A1"
+    },
+    {
+     "word": "soup",
+     "idn": "sup",
+     "level": "A1"
+    },
+    {
+     "word": "too",
+     "idn": "juga",
+     "level": "A1"
+    },
+    {
+     "word": "but",
+     "idn": "tetapi",
+     "level": "A1"
+    },
+    {
+     "word": "not",
+     "idn": "tidak",
+     "level": "A1"
+    },
+    {
+     "word": "give",
+     "idn": "memberi",
+     "level": "A1"
+    },
+    {
+     "word": "up",
+     "idn": "ke atas",
+     "level": "A1"
+    },
+    {
+     "word": "every",
+     "idn": "setiap",
+     "level": "A1"
+    },
+    {
+     "word": "weekend",
+     "idn": "akhir pekan",
+     "level": "A1"
+    },
+    {
+     "word": "cooking",
+     "idn": "memasak",
+     "level": "A1"
+    },
+    {
+     "word": "with",
+     "idn": "dengan",
+     "level": "A1"
+    },
+    {
+     "word": "her",
+     "idn": "dia perempuan",
+     "level": "A1"
+    },
+    {
+     "word": "mother",
+     "idn": "ibu",
+     "level": "A1"
+    },
+    {
+     "word": "cut",
+     "idn": "memotong",
+     "level": "A1"
+    },
+    {
+     "word": "use",
+     "idn": "menggunakan",
+     "level": "A1"
+    },
+    {
+     "word": "right",
+     "idn": "benar",
+     "level": "A1"
+    },
+    {
+     "word": "amount",
+     "idn": "jumlah",
+     "level": "A2"
+    },
+    {
+     "word": "of",
+     "idn": "dari",
+     "level": "A1"
+    },
+    {
+     "word": "salt",
+     "idn": "garam",
+     "level": "A1"
+    },
+    {
+     "word": "slowly",
+     "idn": "dengan lambat",
+     "level": "A2"
+    },
+    {
+     "word": "better",
+     "idn": "lebih baik",
+     "level": "A1"
+    },
+    {
+     "word": "one",
+     "idn": "satu",
+     "level": "A1"
+    },
+    {
+     "word": "day",
+     "idn": "hari",
+     "level": "A1"
+    },
+    {
+     "word": "for",
+     "idn": "untuk",
+     "level": "A1"
+    },
+    {
+     "word": "whole",
+     "idn": "seluruh",
+     "level": "A2"
+    },
+    {
+     "word": "family",
+     "idn": "keluarga",
+     "level": "A1"
+    },
+    {
+     "word": "everyone",
+     "idn": "setiap orang",
+     "level": "A1"
+    },
+    {
+     "word": "IT",
+     "idn": "teknologi informasi",
+     "level": "B1"
+    },
+    {
+     "word": "delicious",
+     "idn": "lezat",
+     "level": "A1"
+    },
+    {
+     "word": "father",
+     "idn": "ayah",
+     "level": "A1"
+    },
+    {
+     "word": "plate",
+     "idn": "piring",
+     "level": "A2"
+    },
+    {
+     "word": "very",
+     "idn": "sangat",
+     "level": "A1"
+    },
+    {
+     "word": "proud",
+     "idn": "bangga",
+     "level": "B1"
+    },
+    {
+     "word": "now",
+     "idn": "sekarang",
+     "level": "A1"
+    },
+    {
+     "word": "dinner",
+     "idn": "makan malam",
+     "level": "A1"
+    },
+    {
+     "word": "Sunday",
+     "idn": "Minggu",
+     "level": "A1"
+    },
+    {
+     "word": "more",
+     "idn": "lebih banyak",
+     "level": "A1"
+    },
+    {
+     "word": "opening",
+     "idn": "pembukaan",
+     "level": "B2"
+    },
+    {
+     "word": "small",
+     "idn": "kecil",
+     "level": "A1"
+    },
+    {
+     "word": "restaurant",
+     "idn": "restoran",
+     "level": "A1"
+    },
+    {
+     "word": "will",
+     "idn": "akan",
+     "level": "A1"
+    },
+    {
+     "word": "take",
+     "idn": "mengambil",
+     "level": "A1"
+    },
+    {
+     "word": "time",
+     "idn": "waktu",
+     "level": "A1"
+    },
+    {
+     "word": "that",
+     "idn": "itu",
+     "level": "A1"
+    },
+    {
+     "word": "practice",
+     "idn": "latihan",
+     "level": "A1"
+    },
+    {
+     "word": "perfect",
+     "idn": "sempurna",
+     "level": "A1"
+    },
+    {
+     "word": "often",
+     "idn": "sering",
+     "level": "A1"
+    },
+    {
+     "word": "ask",
+     "idn": "bertanya",
+     "level": "A1"
+    },
+    {
+     "word": "recipe",
+     "idn": "resep",
+     "level": "A2"
+    },
+    {
+     "word": "happily",
+     "idn": "dengan senang",
+     "level": "A2"
+    },
+    {
+     "word": "them",
+     "idn": "mereka",
+     "level": "A1"
+    },
+    {
+     "word": "also",
+     "idn": "juga",
+     "level": "A1"
+    },
+    {
+     "word": "bake",
+     "idn": "memanggang",
+     "level": "B1"
+    },
+    {
+     "word": "make",
+     "idn": "membuat",
+     "level": "A1"
+    },
+    {
+     "word": "from",
+     "idn": "dari",
+     "level": "A1"
+    },
+    {
+     "word": "old",
+     "idn": "tua",
+     "level": "A1"
+    }
+   ],
+   "wordCount": 162
+  },
+  {
+   "id": "s-b1-1",
+   "level": "B1",
+   "title": "The Job Interview",
+   "text": "Rani had been preparing for her job interview for two weeks. She had read about the company, practised her answers, and chosen her best clothes. On the morning of the interview, she woke up early and reviewed her notes one more time. When she arrived at the office, the receptionist greeted her with a smile. The interviewer asked her about her experience and her skills. Rani answered calmly and gave clear examples from her previous projects. She explained how she had solved a difficult problem for her old team. The interviewer seemed impressed. At the end, Rani asked a few questions about the team and the work. Three days later, she received an email. She had got the job. Rani was delighted. She called her family immediately to share the good news. Her hard work had finally paid off. Her new manager also sent a friendly message and said the whole team was looking forward to meeting her on Monday morning.",
+   "summary": "Rani mempersiapkan wawancara kerja selama dua minggu. Ia menjawab dengan tenang, memberi contoh nyata, dan akhirnya diterima bekerja.",
+   "questions": [
+    {
+     "q": "How long had Rani prepared for the interview?",
+     "options": [
+      "Two weeks",
+      "Two days",
+      "Two months",
+      "Two hours"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What did Rani do during the interview?",
+     "options": [
+      "She answered calmly and gave examples from her projects",
+      "She said nothing",
+      "She asked for money",
+      "She left early"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "How did Rani find out she got the job?",
+     "options": [
+      "By email",
+      "By phone call",
+      "By letter",
+      "In person"
+     ],
+     "answer": 0
+    }
+   ],
+   "vocabWords": [
+    {
+     "word": "for",
+     "idn": "untuk",
+     "level": "A1"
+    },
+    {
+     "word": "her",
+     "idn": "dia perempuan",
+     "level": "A1"
+    },
+    {
+     "word": "job",
+     "idn": "pekerjaan",
+     "level": "A1"
+    },
+    {
+     "word": "interview",
+     "idn": "wawancara",
+     "level": "A1"
+    },
+    {
+     "word": "two",
+     "idn": "dua",
+     "level": "A1"
+    },
+    {
+     "word": "she",
+     "idn": "dia",
+     "level": "A1"
+    },
+    {
+     "word": "read",
+     "idn": "membaca",
+     "level": "A1"
+    },
+    {
+     "word": "about",
+     "idn": "tentang",
+     "level": "A1"
+    },
+    {
+     "word": "company",
+     "idn": "perusahaan",
+     "level": "A1"
+    },
+    {
+     "word": "and",
+     "idn": "dan",
+     "level": "A1"
+    },
+    {
+     "word": "best",
+     "idn": "terbaik",
+     "level": "A1"
+    },
+    {
+     "word": "clothes",
+     "idn": "pakaian",
+     "level": "A1"
+    },
+    {
+     "word": "on",
+     "idn": "di atas",
+     "level": "A1"
+    },
+    {
+     "word": "morning",
+     "idn": "pagi",
+     "level": "A1"
+    },
+    {
+     "word": "of",
+     "idn": "dari",
+     "level": "A1"
+    },
+    {
+     "word": "up",
+     "idn": "ke atas",
+     "level": "A1"
+    },
+    {
+     "word": "early",
+     "idn": "awal",
+     "level": "A1"
+    },
+    {
+     "word": "one",
+     "idn": "satu",
+     "level": "A1"
+    },
+    {
+     "word": "more",
+     "idn": "lebih banyak",
+     "level": "A1"
+    },
+    {
+     "word": "time",
+     "idn": "waktu",
+     "level": "A1"
+    },
+    {
+     "word": "when",
+     "idn": "kapan",
+     "level": "A1"
+    },
+    {
+     "word": "at",
+     "idn": "di",
+     "level": "A1"
+    },
+    {
+     "word": "office",
+     "idn": "kantor",
+     "level": "A1"
+    },
+    {
+     "word": "with",
+     "idn": "dengan",
+     "level": "A1"
+    },
+    {
+     "word": "smile",
+     "idn": "tersenyum",
+     "level": "A2"
+    },
+    {
+     "word": "experience",
+     "idn": "pengalaman",
+     "level": "A2"
+    },
+    {
+     "word": "clear",
+     "idn": "jelas",
+     "level": "A2"
+    },
+    {
+     "word": "from",
+     "idn": "dari",
+     "level": "A1"
+    },
+    {
+     "word": "previous",
+     "idn": "yang sebelumnya",
+     "level": "B1"
+    },
+    {
+     "word": "how",
+     "idn": "bagaimana",
+     "level": "A1"
+    },
+    {
+     "word": "difficult",
+     "idn": "sulit",
+     "level": "A1"
+    },
+    {
+     "word": "problem",
+     "idn": "masalah",
+     "level": "A1"
+    },
+    {
+     "word": "old",
+     "idn": "tua",
+     "level": "A1"
+    },
+    {
+     "word": "team",
+     "idn": "tim",
+     "level": "A1"
+    },
+    {
+     "word": "impressed",
+     "idn": "terkesan",
+     "level": "B2"
+    },
+    {
+     "word": "end",
+     "idn": "akhir",
+     "level": "A1"
+    },
+    {
+     "word": "few",
+     "idn": "sedikit",
+     "level": "A1"
+    },
+    {
+     "word": "work",
+     "idn": "bekerja",
+     "level": "A1"
+    },
+    {
+     "word": "three",
+     "idn": "tiga",
+     "level": "A1"
+    },
+    {
+     "word": "later",
+     "idn": "nanti",
+     "level": "A1"
+    },
+    {
+     "word": "email",
+     "idn": "surel",
+     "level": "A1"
+    },
+    {
+     "word": "family",
+     "idn": "keluarga",
+     "level": "A1"
+    },
+    {
+     "word": "immediately",
+     "idn": "seketika",
+     "level": "A2"
+    },
+    {
+     "word": "to",
+     "idn": "ke",
+     "level": "A1"
+    },
+    {
+     "word": "share",
+     "idn": "berbagi",
+     "level": "A1"
+    },
+    {
+     "word": "good",
+     "idn": "bagus",
+     "level": "A1"
+    },
+    {
+     "word": "news",
+     "idn": "berita",
+     "level": "A1"
+    },
+    {
+     "word": "hard",
+     "idn": "keras",
+     "level": "A1"
+    },
+    {
+     "word": "finally",
+     "idn": "akhirnya",
+     "level": "A2"
+    },
+    {
+     "word": "off",
+     "idn": "lepas",
+     "level": "A1"
+    },
+    {
+     "word": "new",
+     "idn": "baru",
+     "level": "A1"
+    },
+    {
+     "word": "manager",
+     "idn": "manajer",
+     "level": "A2"
+    },
+    {
+     "word": "also",
+     "idn": "juga",
+     "level": "A1"
+    },
+    {
+     "word": "friendly",
+     "idn": "ramah",
+     "level": "A1"
+    },
+    {
+     "word": "message",
+     "idn": "pesan",
+     "level": "A1"
+    },
+    {
+     "word": "whole",
+     "idn": "seluruh",
+     "level": "A2"
+    },
+    {
+     "word": "forward",
+     "idn": "maju",
+     "level": "A2"
+    },
+    {
+     "word": "meeting",
+     "idn": "rapat",
+     "level": "A1"
+    },
+    {
+     "word": "Monday",
+     "idn": "Senin",
+     "level": "A1"
+    }
+   ],
+   "wordCount": 161
+  },
+  {
+   "id": "s-b1-2",
+   "level": "B1",
+   "title": "A Trip to the Mountains",
+   "text": "Last month, our class went on a trip to the mountains. We had been looking forward to it for weeks. The bus left at six in the morning, and we arrived just before lunch. The air was fresh, and the view was amazing. We walked through a green forest and listened to the birds. Our teacher told us about the plants and animals that live there. In the afternoon, we visited a small village. The people were very friendly, and they showed us how they make traditional food. In the evening, we sat around a fire and sang songs. Some of my friends were afraid of the dark, but we stayed together and felt safe. The next day, we watched the sunrise from the top of a hill. It was the most beautiful moment of the trip. I will never forget it. On the bus home, everyone was quiet and tired, but they all agreed that the trip had been the best school trip of the year.",
+   "summary": "Kelas kami pergi ke pegunungan. Kami berjalan di hutan, mengunjungi desa, dan menyaksikan matahari terbit dari atas bukit.",
+   "questions": [
+    {
+     "q": "What did the class do in the forest?",
+     "options": [
+      "They walked and listened to the birds",
+      "They built a house",
+      "They swam in a river",
+      "They planted trees"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What did the villagers show them?",
+     "options": [
+      "How they make traditional food",
+      "How they make clothes",
+      "How they build houses",
+      "How they catch fish"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What was the most beautiful moment?",
+     "options": [
+      "Watching the sunrise from the top of a hill",
+      "Eating lunch",
+      "Riding the bus",
+      "Singing songs"
+     ],
+     "answer": 0
+    }
+   ],
+   "vocabWords": [
+    {
+     "word": "month",
+     "idn": "bulan",
+     "level": "A1"
+    },
+    {
+     "word": "our",
+     "idn": "kami",
+     "level": "A1"
+    },
+    {
+     "word": "class",
+     "idn": "kelas",
+     "level": "A1"
+    },
+    {
+     "word": "on",
+     "idn": "di atas",
+     "level": "A1"
+    },
+    {
+     "word": "trip",
+     "idn": "perjalanan",
+     "level": "A1"
+    },
+    {
+     "word": "to",
+     "idn": "ke",
+     "level": "A1"
+    },
+    {
+     "word": "we",
+     "idn": "kami",
+     "level": "A1"
+    },
+    {
+     "word": "forward",
+     "idn": "maju",
+     "level": "A2"
+    },
+    {
+     "word": "IT",
+     "idn": "teknologi informasi",
+     "level": "B1"
+    },
+    {
+     "word": "for",
+     "idn": "untuk",
+     "level": "A1"
+    },
+    {
+     "word": "bus",
+     "idn": "bus",
+     "level": "A1"
+    },
+    {
+     "word": "left",
+     "idn": "kiri",
+     "level": "A1"
+    },
+    {
+     "word": "at",
+     "idn": "di",
+     "level": "A1"
+    },
+    {
+     "word": "six",
+     "idn": "enam",
+     "level": "A1"
+    },
+    {
+     "word": "in",
+     "idn": "di",
+     "level": "A1"
+    },
+    {
+     "word": "morning",
+     "idn": "pagi",
+     "level": "A1"
+    },
+    {
+     "word": "and",
+     "idn": "dan",
+     "level": "A1"
+    },
+    {
+     "word": "just",
+     "idn": "hanya",
+     "level": "A1"
+    },
+    {
+     "word": "before",
+     "idn": "sebelum",
+     "level": "A1"
+    },
+    {
+     "word": "lunch",
+     "idn": "makan siang",
+     "level": "A1"
+    },
+    {
+     "word": "air",
+     "idn": "udara",
+     "level": "A1"
+    },
+    {
+     "word": "fresh",
+     "idn": "segar",
+     "level": "A2"
+    },
+    {
+     "word": "view",
+     "idn": "pemandangan",
+     "level": "A2"
+    },
+    {
+     "word": "amazing",
+     "idn": "menakjubkan",
+     "level": "A1"
+    },
+    {
+     "word": "through",
+     "idn": "melalui",
+     "level": "A1"
+    },
+    {
+     "word": "green",
+     "idn": "hijau",
+     "level": "A1"
+    },
+    {
+     "word": "forest",
+     "idn": "hutan",
+     "level": "A2"
+    },
+    {
+     "word": "teacher",
+     "idn": "guru",
+     "level": "A1"
+    },
+    {
+     "word": "us",
+     "idn": "kami",
+     "level": "A1"
+    },
+    {
+     "word": "about",
+     "idn": "tentang",
+     "level": "A1"
+    },
+    {
+     "word": "that",
+     "idn": "itu",
+     "level": "A1"
+    },
+    {
+     "word": "live",
+     "idn": "tinggal",
+     "level": "A1"
+    },
+    {
+     "word": "there",
+     "idn": "di sana",
+     "level": "A1"
+    },
+    {
+     "word": "afternoon",
+     "idn": "sore",
+     "level": "A1"
+    },
+    {
+     "word": "small",
+     "idn": "kecil",
+     "level": "A1"
+    },
+    {
+     "word": "village",
+     "idn": "desa",
+     "level": "A2"
+    },
+    {
+     "word": "people",
+     "idn": "orang",
+     "level": "A1"
+    },
+    {
+     "word": "very",
+     "idn": "sangat",
+     "level": "A1"
+    },
+    {
+     "word": "friendly",
+     "idn": "ramah",
+     "level": "A1"
+    },
+    {
+     "word": "they",
+     "idn": "mereka",
+     "level": "A1"
+    },
+    {
+     "word": "how",
+     "idn": "bagaimana",
+     "level": "A1"
+    },
+    {
+     "word": "make",
+     "idn": "membuat",
+     "level": "A1"
+    },
+    {
+     "word": "traditional",
+     "idn": "tradisional",
+     "level": "A2"
+    },
+    {
+     "word": "food",
+     "idn": "makanan",
+     "level": "A1"
+    },
+    {
+     "word": "evening",
+     "idn": "malam",
+     "level": "A1"
+    },
+    {
+     "word": "around",
+     "idn": "sekitar",
+     "level": "A1"
+    },
+    {
+     "word": "fire",
+     "idn": "api",
+     "level": "A1"
+    },
+    {
+     "word": "some",
+     "idn": "sebagian",
+     "level": "A1"
+    },
+    {
+     "word": "of",
+     "idn": "dari",
+     "level": "A1"
+    },
+    {
+     "word": "my",
+     "idn": "saya",
+     "level": "A1"
+    },
+    {
+     "word": "afraid",
+     "idn": "takut",
+     "level": "A1"
+    },
+    {
+     "word": "dark",
+     "idn": "gelap",
+     "level": "A1"
+    },
+    {
+     "word": "but",
+     "idn": "tetapi",
+     "level": "A1"
+    },
+    {
+     "word": "together",
+     "idn": "bersama",
+     "level": "A1"
+    },
+    {
+     "word": "safe",
+     "idn": "aman",
+     "level": "A2"
+    },
+    {
+     "word": "next",
+     "idn": "berikutnya",
+     "level": "A1"
+    },
+    {
+     "word": "day",
+     "idn": "hari",
+     "level": "A1"
+    },
+    {
+     "word": "from",
+     "idn": "dari",
+     "level": "A1"
+    },
+    {
+     "word": "top",
+     "idn": "atas",
+     "level": "A2"
+    },
+    {
+     "word": "hill",
+     "idn": "bukit",
+     "level": "A2"
+    },
+    {
+     "word": "most",
+     "idn": "paling banyak",
+     "level": "A1"
+    },
+    {
+     "word": "beautiful",
+     "idn": "indah",
+     "level": "A1"
+    },
+    {
+     "word": "moment",
+     "idn": "saat",
+     "level": "A1"
+    },
+    {
+     "word": "I",
+     "idn": "saya",
+     "level": "A1"
+    },
+    {
+     "word": "will",
+     "idn": "akan",
+     "level": "A1"
+    },
+    {
+     "word": "never",
+     "idn": "tidak pernah",
+     "level": "A1"
+    },
+    {
+     "word": "forget",
+     "idn": "lupa",
+     "level": "A1"
+    },
+    {
+     "word": "home",
+     "idn": "rumah",
+     "level": "A1"
+    },
+    {
+     "word": "everyone",
+     "idn": "setiap orang",
+     "level": "A1"
+    },
+    {
+     "word": "quiet",
+     "idn": "tenang",
+     "level": "A1"
+    },
+    {
+     "word": "tired",
+     "idn": "lelah",
+     "level": "A1"
+    },
+    {
+     "word": "all",
+     "idn": "semua",
+     "level": "A1"
+    },
+    {
+     "word": "best",
+     "idn": "terbaik",
+     "level": "A1"
+    },
+    {
+     "word": "school",
+     "idn": "sekolah",
+     "level": "A1"
+    },
+    {
+     "word": "year",
+     "idn": "tahun",
+     "level": "A1"
+    }
+   ],
+   "wordCount": 167
+  },
+  {
+   "id": "s-b2-1",
+   "level": "B2",
+   "title": "The Invention That Changed a Village",
+   "text": "When Dewi returned to her village after studying engineering in the city, she found that many families still had no clean water. The nearest well was two kilometres away, and women had to walk there every day. Dewi believed that a simple solution could make a big difference. She designed a low-cost water filter using sand, gravel, and charcoal. At first, some villagers were doubtful. They had never seen anything like it. But Dewi demonstrated the filter, and the water that came out was clear and safe to drink. Gradually, more families asked for one. Within a year, almost every house in the village had a filter. The health of the children improved, and the women had more time for other work. Dewi's invention did not make her rich, but it changed her village. She often says that the best technology is the one that helps ordinary people live better lives.",
+   "summary": "Dewi, lulusan teknik, membuat penyaring air murah dari pasir dan arang untuk desanya. Penyaring itu memperbaiki kesehatan dan kehidupan warga.",
+   "questions": [
+    {
+     "q": "What problem did the village have?",
+     "options": [
+      "No clean water nearby",
+      "No electricity",
+      "No school",
+      "No road"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What did Dewi use to make the filter?",
+     "options": [
+      "Sand, gravel, and charcoal",
+      "Plastic and metal",
+      "Wood and glass",
+      "Cloth and paper"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What happened within a year?",
+     "options": [
+      "Almost every house had a filter",
+      "The village moved away",
+      "Dewi became rich",
+      "The well dried up"
+     ],
+     "answer": 0
+    }
+   ],
+   "vocabWords": [
+    {
+     "word": "when",
+     "idn": "kapan",
+     "level": "A1"
+    },
+    {
+     "word": "to",
+     "idn": "ke",
+     "level": "A1"
+    },
+    {
+     "word": "her",
+     "idn": "dia perempuan",
+     "level": "A1"
+    },
+    {
+     "word": "village",
+     "idn": "desa",
+     "level": "A2"
+    },
+    {
+     "word": "after",
+     "idn": "setelah",
+     "level": "A1"
+    },
+    {
+     "word": "engineering",
+     "idn": "teknik",
+     "level": "B1"
+    },
+    {
+     "word": "in",
+     "idn": "di",
+     "level": "A1"
+    },
+    {
+     "word": "city",
+     "idn": "kota",
+     "level": "A1"
+    },
+    {
+     "word": "she",
+     "idn": "dia",
+     "level": "A1"
+    },
+    {
+     "word": "found",
+     "idn": "mendirikan",
+     "level": "B2"
+    },
+    {
+     "word": "that",
+     "idn": "itu",
+     "level": "A1"
+    },
+    {
+     "word": "many",
+     "idn": "banyak",
+     "level": "A1"
+    },
+    {
+     "word": "still",
+     "idn": "masih",
+     "level": "A1"
+    },
+    {
+     "word": "no",
+     "idn": "tidak",
+     "level": "A1"
+    },
+    {
+     "word": "clean",
+     "idn": "bersih",
+     "level": "A1"
+    },
+    {
+     "word": "water",
+     "idn": "air",
+     "level": "A1"
+    },
+    {
+     "word": "well",
+     "idn": "baik",
+     "level": "A1"
+    },
+    {
+     "word": "two",
+     "idn": "dua",
+     "level": "A1"
+    },
+    {
+     "word": "away",
+     "idn": "pergi",
+     "level": "A1"
+    },
+    {
+     "word": "and",
+     "idn": "dan",
+     "level": "A1"
+    },
+    {
+     "word": "walk",
+     "idn": "berjalan",
+     "level": "A1"
+    },
+    {
+     "word": "there",
+     "idn": "di sana",
+     "level": "A1"
+    },
+    {
+     "word": "every",
+     "idn": "setiap",
+     "level": "A1"
+    },
+    {
+     "word": "day",
+     "idn": "hari",
+     "level": "A1"
+    },
+    {
+     "word": "simple",
+     "idn": "sederhana",
+     "level": "A2"
+    },
+    {
+     "word": "solution",
+     "idn": "solusi",
+     "level": "A2"
+    },
+    {
+     "word": "could",
+     "idn": "bisa",
+     "level": "A1"
+    },
+    {
+     "word": "make",
+     "idn": "membuat",
+     "level": "A1"
+    },
+    {
+     "word": "big",
+     "idn": "besar",
+     "level": "A1"
+    },
+    {
+     "word": "difference",
+     "idn": "perbedaan",
+     "level": "A1"
+    },
+    {
+     "word": "low",
+     "idn": "rendah",
+     "level": "A2"
+    },
+    {
+     "word": "cost",
+     "idn": "biaya",
+     "level": "A1"
+    },
+    {
+     "word": "sand",
+     "idn": "pasir",
+     "level": "B1"
+    },
+    {
+     "word": "at",
+     "idn": "di",
+     "level": "A1"
+    },
+    {
+     "word": "first",
+     "idn": "pertama",
+     "level": "A1"
+    },
+    {
+     "word": "some",
+     "idn": "sebagian",
+     "level": "A1"
+    },
+    {
+     "word": "they",
+     "idn": "mereka",
+     "level": "A1"
+    },
+    {
+     "word": "never",
+     "idn": "tidak pernah",
+     "level": "A1"
+    },
+    {
+     "word": "anything",
+     "idn": "apa pun",
+     "level": "A1"
+    },
+    {
+     "word": "IT",
+     "idn": "teknologi informasi",
+     "level": "B1"
+    },
+    {
+     "word": "but",
+     "idn": "tetapi",
+     "level": "A1"
+    },
+    {
+     "word": "out",
+     "idn": "keluar",
+     "level": "A1"
+    },
+    {
+     "word": "clear",
+     "idn": "jelas",
+     "level": "A2"
+    },
+    {
+     "word": "safe",
+     "idn": "aman",
+     "level": "A2"
+    },
+    {
+     "word": "drink",
+     "idn": "minum",
+     "level": "A1"
+    },
+    {
+     "word": "gradually",
+     "idn": "bertahap",
+     "level": "B2"
+    },
+    {
+     "word": "more",
+     "idn": "lebih banyak",
+     "level": "A1"
+    },
+    {
+     "word": "for",
+     "idn": "untuk",
+     "level": "A1"
+    },
+    {
+     "word": "one",
+     "idn": "satu",
+     "level": "A1"
+    },
+    {
+     "word": "within",
+     "idn": "di dalam",
+     "level": "B1"
+    },
+    {
+     "word": "year",
+     "idn": "tahun",
+     "level": "A1"
+    },
+    {
+     "word": "almost",
+     "idn": "hampir",
+     "level": "A2"
+    },
+    {
+     "word": "house",
+     "idn": "tempat tinggal",
+     "level": "A1"
+    },
+    {
+     "word": "health",
+     "idn": "kesehatan",
+     "level": "A1"
+    },
+    {
+     "word": "of",
+     "idn": "dari",
+     "level": "A1"
+    },
+    {
+     "word": "time",
+     "idn": "waktu",
+     "level": "A1"
+    },
+    {
+     "word": "other",
+     "idn": "lain",
+     "level": "A1"
+    },
+    {
+     "word": "work",
+     "idn": "bekerja",
+     "level": "A1"
+    },
+    {
+     "word": "invention",
+     "idn": "penemuan",
+     "level": "A2"
+    },
+    {
+     "word": "not",
+     "idn": "tidak",
+     "level": "A1"
+    },
+    {
+     "word": "rich",
+     "idn": "kaya",
+     "level": "A1"
+    },
+    {
+     "word": "often",
+     "idn": "sering",
+     "level": "A1"
+    },
+    {
+     "word": "best",
+     "idn": "terbaik",
+     "level": "A1"
+    },
+    {
+     "word": "technology",
+     "idn": "teknologi",
+     "level": "A2"
+    },
+    {
+     "word": "ordinary",
+     "idn": "biasa",
+     "level": "A2"
+    },
+    {
+     "word": "people",
+     "idn": "orang",
+     "level": "A1"
+    },
+    {
+     "word": "live",
+     "idn": "tinggal",
+     "level": "A1"
+    },
+    {
+     "word": "better",
+     "idn": "lebih baik",
+     "level": "A1"
+    }
+   ],
+   "wordCount": 151
+  },
+  {
+   "id": "s-b2-2",
+   "level": "B2",
+   "title": "A Difficult Decision",
+   "text": "Arif had worked at the same company for eight years. He had a good salary, kind colleagues, and a comfortable office. However, he had always dreamed of starting his own business. One evening, he sat down and made a list of the advantages and disadvantages. If he stayed, his life would be safe but predictable. If he left, he might fail, but he would finally have the chance to build something of his own. His wife supported him, although she was worried about their savings. After weeks of thinking, Arif decided to take the risk. He resigned and opened a small digital design studio with two friends. The first year was very hard. There were months when they barely earned enough to pay the rent. But they kept going, improved their skills, and slowly gained clients. Today, the studio employs twelve people. Arif says he has never regretted his decision, because he learned that security is not the same as happiness.",
+   "summary": "Arif meninggalkan pekerjaan tetapnya setelah delapan tahun untuk membuka studio desain sendiri. Tahun pertama sulit, tetapi studionya kini sukses.",
+   "questions": [
+    {
+     "q": "How long had Arif worked at the company?",
+     "options": [
+      "Eight years",
+      "Five years",
+      "Ten years",
+      "Three years"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What did Arif decide to do?",
+     "options": [
+      "Open a small digital design studio",
+      "Move to another city",
+      "Retire early",
+      "Study abroad"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "What does Arif say he learned?",
+     "options": [
+      "Security is not the same as happiness",
+      "Money is everything",
+      "Work is more important than family",
+      "Risk is always bad"
+     ],
+     "answer": 0
+    }
+   ],
+   "vocabWords": [
+    {
+     "word": "at",
+     "idn": "di",
+     "level": "A1"
+    },
+    {
+     "word": "same",
+     "idn": "sama",
+     "level": "A1"
+    },
+    {
+     "word": "company",
+     "idn": "perusahaan",
+     "level": "A1"
+    },
+    {
+     "word": "for",
+     "idn": "untuk",
+     "level": "A1"
+    },
+    {
+     "word": "eight",
+     "idn": "delapan",
+     "level": "A1"
+    },
+    {
+     "word": "he",
+     "idn": "dia",
+     "level": "A1"
+    },
+    {
+     "word": "good",
+     "idn": "bagus",
+     "level": "A1"
+    },
+    {
+     "word": "salary",
+     "idn": "gaji",
+     "level": "A2"
+    },
+    {
+     "word": "and",
+     "idn": "dan",
+     "level": "A1"
+    },
+    {
+     "word": "comfortable",
+     "idn": "nyaman",
+     "level": "A2"
+    },
+    {
+     "word": "office",
+     "idn": "kantor",
+     "level": "A1"
+    },
+    {
+     "word": "however",
+     "idn": "namun",
+     "level": "A1"
+    },
+    {
+     "word": "always",
+     "idn": "selalu",
+     "level": "A1"
+    },
+    {
+     "word": "of",
+     "idn": "dari",
+     "level": "A1"
+    },
+    {
+     "word": "his",
+     "idn": "miliknya",
+     "level": "A1"
+    },
+    {
+     "word": "own",
+     "idn": "sendiri",
+     "level": "A1"
+    },
+    {
+     "word": "business",
+     "idn": "bisnis",
+     "level": "A1"
+    },
+    {
+     "word": "one",
+     "idn": "satu",
+     "level": "A1"
+    },
+    {
+     "word": "evening",
+     "idn": "malam",
+     "level": "A1"
+    },
+    {
+     "word": "down",
+     "idn": "ke bawah",
+     "level": "A1"
+    },
+    {
+     "word": "list",
+     "idn": "daftar",
+     "level": "A1"
+    },
+    {
+     "word": "if",
+     "idn": "jika",
+     "level": "A1"
+    },
+    {
+     "word": "life",
+     "idn": "hidup",
+     "level": "A1"
+    },
+    {
+     "word": "would",
+     "idn": "akan",
+     "level": "A1"
+    },
+    {
+     "word": "be",
+     "idn": "menjadi",
+     "level": "A1"
+    },
+    {
+     "word": "safe",
+     "idn": "aman",
+     "level": "A2"
+    },
+    {
+     "word": "but",
+     "idn": "tetapi",
+     "level": "A1"
+    },
+    {
+     "word": "left",
+     "idn": "kiri",
+     "level": "A1"
+    },
+    {
+     "word": "might",
+     "idn": "mungkin",
+     "level": "A2"
+    },
+    {
+     "word": "fail",
+     "idn": "gagal",
+     "level": "A2"
+    },
+    {
+     "word": "finally",
+     "idn": "akhirnya",
+     "level": "A2"
+    },
+    {
+     "word": "have",
+     "idn": "mempunyai",
+     "level": "A1"
+    },
+    {
+     "word": "chance",
+     "idn": "kesempatan",
+     "level": "A2"
+    },
+    {
+     "word": "to",
+     "idn": "ke",
+     "level": "A1"
+    },
+    {
+     "word": "build",
+     "idn": "membangun",
+     "level": "A1"
+    },
+    {
+     "word": "something",
+     "idn": "sesuatu",
+     "level": "A1"
+    },
+    {
+     "word": "wife",
+     "idn": "istri",
+     "level": "A1"
+    },
+    {
+     "word": "him",
+     "idn": "dia",
+     "level": "A1"
+    },
+    {
+     "word": "although",
+     "idn": "meskipun",
+     "level": "A2"
+    },
+    {
+     "word": "she",
+     "idn": "dia",
+     "level": "A1"
+    },
+    {
+     "word": "worried",
+     "idn": "khawatir",
+     "level": "A2"
+    },
+    {
+     "word": "about",
+     "idn": "tentang",
+     "level": "A1"
+    },
+    {
+     "word": "their",
+     "idn": "mereka",
+     "level": "A1"
+    },
+    {
+     "word": "after",
+     "idn": "setelah",
+     "level": "A1"
+    },
+    {
+     "word": "thinking",
+     "idn": "pemikiran",
+     "level": "A2"
+    },
+    {
+     "word": "take",
+     "idn": "mengambil",
+     "level": "A1"
+    },
+    {
+     "word": "risk",
+     "idn": "risiko",
+     "level": "B1"
+    },
+    {
+     "word": "small",
+     "idn": "kecil",
+     "level": "A1"
+    },
+    {
+     "word": "digital",
+     "idn": "digital",
+     "level": "A2"
+    },
+    {
+     "word": "design",
+     "idn": "desain",
+     "level": "A1"
+    },
+    {
+     "word": "studio",
+     "idn": "studio",
+     "level": "B1"
+    },
+    {
+     "word": "with",
+     "idn": "dengan",
+     "level": "A1"
+    },
+    {
+     "word": "two",
+     "idn": "dua",
+     "level": "A1"
+    },
+    {
+     "word": "first",
+     "idn": "pertama",
+     "level": "A1"
+    },
+    {
+     "word": "year",
+     "idn": "tahun",
+     "level": "A1"
+    },
+    {
+     "word": "very",
+     "idn": "sangat",
+     "level": "A1"
+    },
+    {
+     "word": "hard",
+     "idn": "keras",
+     "level": "A1"
+    },
+    {
+     "word": "there",
+     "idn": "di sana",
+     "level": "A1"
+    },
+    {
+     "word": "when",
+     "idn": "kapan",
+     "level": "A1"
+    },
+    {
+     "word": "they",
+     "idn": "mereka",
+     "level": "A1"
+    },
+    {
+     "word": "enough",
+     "idn": "cukup",
+     "level": "A1"
+    },
+    {
+     "word": "pay",
+     "idn": "membayar",
+     "level": "A1"
+    },
+    {
+     "word": "rent",
+     "idn": "sewa",
+     "level": "B1"
+    },
+    {
+     "word": "slowly",
+     "idn": "dengan lambat",
+     "level": "A2"
+    },
+    {
+     "word": "today",
+     "idn": "hari ini",
+     "level": "A1"
+    },
+    {
+     "word": "twelve",
+     "idn": "dua belas",
+     "level": "A1"
+    },
+    {
+     "word": "people",
+     "idn": "orang",
+     "level": "A1"
+    },
+    {
+     "word": "never",
+     "idn": "tidak pernah",
+     "level": "A1"
+    },
+    {
+     "word": "decision",
+     "idn": "keputusan",
+     "level": "A2"
+    },
+    {
+     "word": "because",
+     "idn": "karena",
+     "level": "A1"
+    },
+    {
+     "word": "that",
+     "idn": "itu",
+     "level": "A1"
+    },
+    {
+     "word": "security",
+     "idn": "keamanan",
+     "level": "B1"
+    },
+    {
+     "word": "not",
+     "idn": "tidak",
+     "level": "A1"
+    },
+    {
+     "word": "as",
+     "idn": "sebagai",
+     "level": "A1"
+    },
+    {
+     "word": "happiness",
+     "idn": "kebahagiaan",
+     "level": "B1"
+    }
+   ],
+   "wordCount": 161
+  }
+ ]
+}

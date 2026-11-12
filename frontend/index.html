@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Oxford 3000 — Belajar Bahasa Inggris</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<header class="top">
+  <h1>Oxford 3000 — Belajar Bahasa Inggris</h1>
+  <p class="subtitle">3000 kata terpenting Bahasa Inggris (A1–B2) • Grammar • Kuis • Speaking • Cerita</p>
+  <nav class="tabs" id="tabs">
+    <button data-tab="home" class="active">Beranda</button>
+    <button data-tab="vocab">Kosakata</button>
+    <button data-tab="quiz">Kuis Kata</button>
+    <button data-tab="grammar">Grammar</button>
+    <button data-tab="speaking">Speaking</button>
+    <button data-tab="stories">Cerita</button>
+  </nav>
+</header>
+
+<div id="file-warning" class="file-warning" hidden>
+  ⚠️ Kamu membuka aplikasi ini langsung dari file (file://). Progress tidak akan tersimpan.
+  Tutup halaman ini, lalu jalankan <code>npm start</code> di folder aplikasi dan buka
+  <code>http://localhost:3000</code>.
+</div>
+
+<main>
+  <section id="tab-home" class="tab-page">
+    <div class="card hero">
+      <div class="big-num"><span id="home-count">0</span> / <span id="home-total">3000</span> kata</div>
+      <div class="big-pct" id="home-pct">0,0%</div>
+      <p>Sudah hapal <strong id="home-count2">0</strong> dari <strong>3000</strong> kata. Sisa <strong id="home-remaining">3000</strong> kata lagi.</p>
+      <button id="continue-btn" class="btn primary">Lanjut belajar →</button>
+    </div>
+    <h2>Progress per level</h2>
+    <div id="level-bars" class="level-bars"></div>
+    <div class="card">
+      <h2>Cara memakai</h2>
+      <ol>
+        <li>Buka tab <strong>Kosakata</strong>, cari kata, dengarkan, lalu pencet <strong>Tandai Hapal</strong> kalau sudah hafal.</li>
+        <li>Uji dirimu di tab <strong>Kuis Kata</strong> dan <strong>Grammar</strong> (kuisnya dipisah per topik grammar).</li>
+        <li>Latih ucapan di tab <strong>Speaking</strong> dan baca cerita di tab <strong>Cerita</strong>.</li>
+        <li>Progress tersimpan otomatis di komputer ini (file <code>backend/data/data.json</code>). Hapus file itu untuk mengulang dari nol.</li>
+      </ol>
+    </div>
+  </section>
+
+  <section id="tab-vocab" class="tab-page" hidden>
+    <div class="toolbar">
+      <input id="vocab-search" type="search" placeholder="Cari kata Inggris atau arti Indonesia…">
+      <select id="vocab-level"><option value="">Semua level</option><option>A1</option><option>A2</option><option>B1</option><option>B2</option></select>
+      <select id="vocab-status"><option value="">Semua kata</option><option value="mem">Sudah hapal</option><option value="unmem">Belum hapal</option></select>
+      <select id="vocab-sort"><option value="level">Urut: per level</option><option value="az">Urut: A–Z</option></select>
+    </div>
+    <p id="vocab-count" class="muted"></p>
+    <div id="vocab-list" class="word-list"></div>
+    <button id="vocab-more" class="btn">Muat lebih banyak</button>
+  </section>
+
+  <section id="tab-quiz" class="tab-page" hidden>
+    <div class="card">
+      <h2>Kuis Kosakata</h2>
+      <div class="toolbar">
+        <select id="quiz-level"><option value="">Semua level</option><option>A1</option><option>A2</option><option>B1</option><option>B2</option></select>
+        <select id="quiz-mode"><option value="mc-en-id">Pilihan ganda: Inggris → Indonesia</option><option value="mc-id-en">Pilihan ganda: Indonesia → Inggris</option><option value="type">Ketik jawaban (arti Indonesia)</option></select>
+        <select id="quiz-count"><option value="10">10 soal</option><option value="20">20 soal</option></select>
+        <button id="quiz-start" class="btn primary">Mulai kuis</button>
+      </div>
+      <div id="quiz-area"></div>
+    </div>
+    <div class="card">
+      <h2>Riwayat kuis kosakata</h2>
+      <ul id="quiz-history" class="history"></ul>
+    </div>
+  </section>
+
+  <section id="tab-grammar" class="tab-page" hidden>
+    <div class="toolbar">
+      <select id="grammar-level"><option value="">Semua level</option><option>A1</option><option>A2</option><option>B1</option><option>B2</option></select>
+    </div>
+    <div id="grammar-list"></div>
+    <div id="grammar-quiz-area"></div>
+  </section>
+
+  <section id="tab-speaking" class="tab-page" hidden>
+    <div class="card">
+      <h2>Speaking — Latihan Ucap</h2>
+      <p id="speaking-support" class="muted"></p>
+      <div class="toolbar">
+        <select id="speaking-level"><option>A1</option><option>A2</option><option>B1</option><option>B2</option></select>
+      </div>
+      <div id="speaking-list"></div>
+    </div>
+  </section>
+
+  <section id="tab-stories" class="tab-page" hidden>
+    <div id="stories-list"></div>
+    <div id="story-detail"></div>
+  </section>
+</main>
+
+<footer>
+  <p>Daftar kata dari PDF Oxford 3000 (American English) yang diunggah Rainy.
+  Arti Bahasa Indonesia dan contoh kalimat disiapkan untuk aplikasi ini — bukan arti/contoh resmi dari Oxford.</p>
+  <p>Salinan lokal ini adalah rekreasi setia dari aplikasi hosted “Oxford 3000 - Belajar Bahasa Inggris”,
+  bukan salinan byte-for-byte dari aplikasi tersebut.</p>
+</footer>
+<script src="/app.js"></script>
+</body>
+</html>

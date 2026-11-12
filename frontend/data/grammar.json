@@ -1,0 +1,5288 @@
+{
+ "topics": [
+  {
+   "id": "g-a1-01",
+   "level": "A1",
+   "title": "Present Simple",
+   "explanation": "Present Simple dipakai untuk kebiasaan, fakta, dan jadwal rutin. Perhatikan akhiran -s/-es untuk subjek he, she, it.",
+   "formula": "Subject + verb (he/she/it + verb-s/-es)",
+   "examples": [
+    {
+     "en": "She goes to school every day.",
+     "id": "Dia pergi ke sekolah setiap hari."
+    },
+    {
+     "en": "They play football on Sundays.",
+     "id": "Mereka bermain sepak bola setiap hari Minggu."
+    },
+    {
+     "en": "The sun rises in the east.",
+     "id": "Matahari terbit di timur."
+    }
+   ],
+   "mc": [
+    {
+     "q": "She ___ in the park every morning",
+     "options": [
+      "work",
+      "worked",
+      "working",
+      "works"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "She ___ in the park every morning",
+     "options": [
+      "works",
+      "worked",
+      "working",
+      "work"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "My brother ___ at the market on Sundays",
+     "options": [
+      "cleaned",
+      "cleans",
+      "cleaning",
+      "clean"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "We ___ in the library every week",
+     "options": [
+      "bought",
+      "buying",
+      "buys",
+      "buy"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "I ___ English every day",
+     "options": [
+      "eat",
+      "ate",
+      "eating",
+      "eaten"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Rina ___ at the office every day",
+     "options": [
+      "living",
+      "lived",
+      "lives",
+      "live"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "I ___ English every day",
+     "options": [
+      "eaten",
+      "ate",
+      "eating",
+      "eat"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "He ___ at school every day",
+     "options": [
+      "watched",
+      "watch",
+      "watches",
+      "watching"
+     ],
+     "answer": 2
+    }
+   ],
+   "typing": [
+    {
+     "q": "He ___ at school every day  (kata kerja: watch)",
+     "answer": "watches",
+     "hint": "Bentuk present simple dari 'watch'"
+    },
+    {
+     "q": "They ___ at home every evening  (kata kerja: swim)",
+     "answer": "swim",
+     "hint": "Bentuk present simple dari 'swim'"
+    },
+    {
+     "q": "They ___ at home every evening  (kata kerja: swim)",
+     "answer": "swim",
+     "hint": "Bentuk present simple dari 'swim'"
+    },
+    {
+     "q": "The students ___ with friends every weekend  (kata kerja: sleep)",
+     "answer": "sleep",
+     "hint": "Bentuk present simple dari 'sleep'"
+    },
+    {
+     "q": "We ___ in the library every week  (kata kerja: buy)",
+     "answer": "buy",
+     "hint": "Bentuk present simple dari 'buy'"
+    },
+    {
+     "q": "Rina ___ at the office every day  (kata kerja: live)",
+     "answer": "lives",
+     "hint": "Bentuk present simple dari 'live'"
+    }
+   ]
+  },
+  {
+   "id": "g-a1-02",
+   "level": "A1",
+   "title": "Present Continuous",
+   "explanation": "Present Continuous dipakai untuk kegiatan yang sedang berlangsung saat ini. Bentuknya: to be (am/is/are) + verb-ing.",
+   "formula": "Subject + am/is/are + verb-ing",
+   "examples": [
+    {
+     "en": "I am studying English now.",
+     "id": "Saya sedang belajar bahasa Inggris sekarang."
+    },
+    {
+     "en": "She is cooking dinner at the moment.",
+     "id": "Dia sedang memasak makan malam saat ini."
+    },
+    {
+     "en": "They are playing in the park.",
+     "id": "Mereka sedang bermain di taman."
+    }
+   ],
+   "mc": [
+    {
+     "q": "We ___ in the library every week",
+     "options": [
+      "bought",
+      "buy",
+      "are buying",
+      "buying"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "He ___ at school every day",
+     "options": [
+      "watched",
+      "watching",
+      "watch",
+      "is watching"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "Rina ___ at the office every day",
+     "options": [
+      "lived",
+      "living",
+      "is living",
+      "live"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "My brother ___ at the market on Sundays",
+     "options": [
+      "cleaning",
+      "clean",
+      "cleaned",
+      "is cleaning"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "Rina ___ at the office every day",
+     "options": [
+      "lived",
+      "is living",
+      "live",
+      "living"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "The students ___ with friends every weekend",
+     "options": [
+      "slept",
+      "sleeping",
+      "are sleeping",
+      "sleep"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "I ___ English every day",
+     "options": [
+      "eaten",
+      "eat",
+      "ate",
+      "am eating"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "We ___ in the library every week",
+     "options": [
+      "bought",
+      "are buying",
+      "buy",
+      "buying"
+     ],
+     "answer": 1
+    }
+   ],
+   "typing": [
+    {
+     "q": "They ___ at home every evening  (kata kerja: swim)",
+     "answer": "are swimming",
+     "hint": "Bentuk present cont dari 'swim'"
+    },
+    {
+     "q": "She ___ in the park every morning  (kata kerja: work)",
+     "answer": "is working",
+     "hint": "Bentuk present cont dari 'work'"
+    },
+    {
+     "q": "They ___ at home every evening  (kata kerja: swim)",
+     "answer": "are swimming",
+     "hint": "Bentuk present cont dari 'swim'"
+    },
+    {
+     "q": "I ___ English every day  (kata kerja: eat)",
+     "answer": "am eating",
+     "hint": "Bentuk present cont dari 'eat'"
+    },
+    {
+     "q": "She ___ in the park every morning  (kata kerja: work)",
+     "answer": "is working",
+     "hint": "Bentuk present cont dari 'work'"
+    },
+    {
+     "q": "He ___ at school every day  (kata kerja: watch)",
+     "answer": "is watching",
+     "hint": "Bentuk present cont dari 'watch'"
+    }
+   ]
+  },
+  {
+   "id": "g-a1-03",
+   "level": "A1",
+   "title": "Past Simple",
+   "explanation": "Past Simple dipakai untuk kejadian yang sudah selesai di masa lalu, biasanya dengan keterangan waktu seperti yesterday atau last week. Kata kerja beraturan tambah -ed; tidak beraturan harus dihafal bentuknya.",
+   "formula": "Subject + verb-2 (past form)",
+   "examples": [
+    {
+     "en": "I visited my grandmother yesterday.",
+     "id": "Saya mengunjungi nenek saya kemarin."
+    },
+    {
+     "en": "She bought a new book last week.",
+     "id": "Dia membeli buku baru minggu lalu."
+    },
+    {
+     "en": "They watched a film last night.",
+     "id": "Mereka menonton film tadi malam."
+    }
+   ],
+   "mc": [
+    {
+     "q": "She ___ in the park every morning",
+     "options": [
+      "works",
+      "worked",
+      "work",
+      "working"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "We ___ in the library every week",
+     "options": [
+      "buying",
+      "buys",
+      "bought",
+      "buy"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "He ___ at school every day",
+     "options": [
+      "watched",
+      "watches",
+      "watch",
+      "watching"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "I ___ English every day",
+     "options": [
+      "eating",
+      "eaten",
+      "eat",
+      "ate"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "She ___ in the park every morning",
+     "options": [
+      "works",
+      "worked",
+      "working",
+      "work"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "The students ___ with friends every weekend",
+     "options": [
+      "sleep",
+      "slept",
+      "sleeps",
+      "sleeping"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "They ___ at home every evening",
+     "options": [
+      "swimming",
+      "swam",
+      "swum",
+      "swim"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "I ___ English every day",
+     "options": [
+      "eaten",
+      "ate",
+      "eat",
+      "eating"
+     ],
+     "answer": 1
+    }
+   ],
+   "typing": [
+    {
+     "q": "Rina ___ at the office every day  (kata kerja: live)",
+     "answer": "lived",
+     "hint": "Bentuk past simple dari 'live'"
+    },
+    {
+     "q": "My brother ___ at the market on Sundays  (kata kerja: clean)",
+     "answer": "cleaned",
+     "hint": "Bentuk past simple dari 'clean'"
+    },
+    {
+     "q": "He ___ at school every day  (kata kerja: watch)",
+     "answer": "watched",
+     "hint": "Bentuk past simple dari 'watch'"
+    },
+    {
+     "q": "Rina ___ at the office every day  (kata kerja: live)",
+     "answer": "lived",
+     "hint": "Bentuk past simple dari 'live'"
+    },
+    {
+     "q": "We ___ in the library every week  (kata kerja: buy)",
+     "answer": "bought",
+     "hint": "Bentuk past simple dari 'buy'"
+    },
+    {
+     "q": "They ___ at home every evening  (kata kerja: swim)",
+     "answer": "swam",
+     "hint": "Bentuk past simple dari 'swim'"
+    }
+   ]
+  },
+  {
+   "id": "g-a1-04",
+   "level": "A1",
+   "title": "Articles (a/an/the)",
+   "explanation": "A/an dipakai untuk satu benda yang belum spesifik (an sebelum bunyi vokal). The dipakai untuk benda yang sudah spesifik atau sudah disebut sebelumnya. Tanpa artikel untuk nama umum jamak dan benda abstrak.",
+   "formula": "a/an + kata benda tunggal  /  the + kata benda spesifik",
+   "examples": [
+    {
+     "en": "I saw an elephant at the zoo.",
+     "id": "Saya melihat seekor gajah di kebun binatang."
+    },
+    {
+     "en": "The book on the table is mine.",
+     "id": "Buku di atas meja itu milik saya."
+    }
+   ],
+   "mc": [
+    {
+     "q": "I need ___ umbrella. It is raining.",
+     "options": [
+      "—",
+      "a",
+      "the",
+      "an"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "She is ___ honest person.",
+     "options": [
+      "a",
+      "an",
+      "—",
+      "the"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "___ sun rises in the east.",
+     "options": [
+      "A",
+      "An",
+      "The",
+      "—"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "He is ___ doctor at this hospital.",
+     "options": [
+      "a",
+      "—",
+      "an",
+      "the"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "I saw ___ interesting film yesterday.",
+     "options": [
+      "—",
+      "a",
+      "an",
+      "the"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "___ children are playing in the park.",
+     "options": [
+      "A",
+      "An",
+      "The",
+      "—"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "She plays ___ piano very well.",
+     "options": [
+      "—",
+      "the",
+      "a",
+      "an"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "This is ___ best day of my life.",
+     "options": [
+      "an",
+      "—",
+      "the",
+      "a"
+     ],
+     "answer": 2
+    }
+   ],
+   "typing": [
+    {
+     "q": "He wants to be ___ engineer.",
+     "answer": "an",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "___ water in this bottle is cold.",
+     "answer": "The",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "I have ___ cat and ___ dog.",
+     "answer": "a / a",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "She is reading ___ book about history.",
+     "answer": "a",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "___ Mount Everest is the highest mountain.",
+     "answer": "—",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "We went to ___ school by bus.",
+     "answer": "—",
+     "hint": "Ketik jawaban yang tepat"
+    }
+   ]
+  },
+  {
+   "id": "g-a1-05",
+   "level": "A1",
+   "title": "There is/are",
+   "explanation": "There is dipakai untuk satu benda (singular), there are untuk banyak benda (plural). Bentuk negatif: there isn't / there aren't. Pertanyaan: Is there...? / Are there...?",
+   "formula": "There is + singular  /  There are + plural",
+   "examples": [
+    {
+     "en": "There is a book on the table.",
+     "id": "Ada sebuah buku di atas meja."
+    },
+    {
+     "en": "There are many students in the class.",
+     "id": "Ada banyak siswa di kelas."
+    }
+   ],
+   "mc": [
+    {
+     "q": "___ a pen on the desk.",
+     "options": [
+      "There",
+      "There is",
+      "There are",
+      "It is"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "___ many apples in the basket.",
+     "options": [
+      "There is",
+      "There are",
+      "There",
+      "It is"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "___ a lot of people at the party?",
+     "options": [
+      "Are there",
+      "Have there",
+      "Is there",
+      "Do there"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "___ a cat under the table.",
+     "options": [
+      "It are",
+      "There are",
+      "There",
+      "There is"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "___ three chairs in the room.",
+     "options": [
+      "There is",
+      "There are",
+      "It is",
+      "There"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "___ any milk in the fridge?",
+     "options": [
+      "Has there",
+      "Are there",
+      "Do there",
+      "Is there"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "___ no time left. Hurry up!",
+     "options": [
+      "There are",
+      "There",
+      "There is",
+      "It is"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "___ some money in my wallet.",
+     "options": [
+      "There is",
+      "There",
+      "It is",
+      "There are"
+     ],
+     "answer": 0
+    }
+   ],
+   "typing": [
+    {
+     "q": "___ two books on the shelf.",
+     "answer": "There are",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "___ a bus stop near here?",
+     "answer": "Is there",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "___ a lot of traffic today.",
+     "answer": "There is",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "___ many cars on the road.",
+     "answer": "There are",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "___ an old temple in this village.",
+     "answer": "There is",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "___ any questions?",
+     "answer": "Are there",
+     "hint": "Ketik jawaban yang tepat"
+    }
+   ]
+  },
+  {
+   "id": "g-a1-06",
+   "level": "A1",
+   "title": "Prepositions of Place & Time",
+   "explanation": "In untuk tempat besar dan bulan/tahun (in Jakarta, in May). On untuk permukaan dan hari/tanggal (on the table, on Monday). At untuk titik spesifik dan jam (at home, at 7 o'clock).",
+   "formula": "in + kota/bulan/tahun  /  on + hari/tanggal  /  at + jam/tempat spesifik",
+   "examples": [
+    {
+     "en": "The book is on the table.",
+     "id": "Buku itu ada di atas meja."
+    },
+    {
+     "en": "I was born in 2005.",
+     "id": "Saya lahir pada tahun 2005."
+    }
+   ],
+   "mc": [
+    {
+     "q": "The cat is ___ the table.",
+     "options": [
+      "at",
+      "in",
+      "under",
+      "on"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "We live ___ Jakarta.",
+     "options": [
+      "on",
+      "to",
+      "in",
+      "at"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "The meeting starts ___ 9 o'clock.",
+     "options": [
+      "to",
+      "on",
+      "at",
+      "in"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "My birthday is ___ May.",
+     "options": [
+      "to",
+      "at",
+      "in",
+      "on"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "She was born ___ 2004.",
+     "options": [
+      "to",
+      "on",
+      "at",
+      "in"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "We have English class ___ Monday.",
+     "options": [
+      "to",
+      "on",
+      "in",
+      "at"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "He is waiting ___ the bus stop.",
+     "options": [
+      "on",
+      "in",
+      "at",
+      "to"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "The keys are ___ my bag.",
+     "options": [
+      "on",
+      "to",
+      "at",
+      "in"
+     ],
+     "answer": 3
+    }
+   ],
+   "typing": [
+    {
+     "q": "They arrived ___ the morning.",
+     "answer": "in",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "I will see you ___ Friday.",
+     "answer": "on",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "She is ___ home now.",
+     "answer": "at",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "The picture is ___ the wall.",
+     "answer": "on",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "He was born ___ 15 March.",
+     "answer": "on",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "We met ___ the airport.",
+     "answer": "at",
+     "hint": "Ketik jawaban yang tepat"
+    }
+   ]
+  },
+  {
+   "id": "g-a1-07",
+   "level": "A1",
+   "title": "Can/Could (dasar)",
+   "explanation": "Can dipakai untuk kemampuan dan izin di masa kini. Could dipakai untuk kemampuan di masa lalu dan permintaan yang lebih sopan. Bentuk negatif: can't dan couldn't.",
+   "formula": "Subject + can/could + verb-1",
+   "examples": [
+    {
+     "en": "I can swim very well.",
+     "id": "Saya bisa berenang dengan sangat baik."
+    },
+    {
+     "en": "Could you help me, please?",
+     "id": "Bisakah kamu membantuku?"
+    }
+   ],
+   "mc": [
+    {
+     "q": "I ___ swim when I was five years old.",
+     "options": [
+      "will",
+      "can",
+      "can't",
+      "could"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "She ___ speak three languages.",
+     "options": [
+      "can",
+      "can't",
+      "could",
+      "must"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "___ you open the window, please?",
+     "options": [
+      "Do",
+      "Are",
+      "Can",
+      "Could"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "He ___ ride a bike now, but he couldn't last year.",
+     "options": [
+      "can't",
+      "must",
+      "can",
+      "could"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "We ___ see the mountains from here.",
+     "options": [
+      "must",
+      "can't",
+      "could",
+      "can"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "My grandmother ___ cook very well when she was young.",
+     "options": [
+      "will",
+      "can",
+      "could",
+      "can't"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "___ I use your phone, please?",
+     "options": [
+      "Do",
+      "Am",
+      "Can",
+      "Could"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "They ___ not come to the party yesterday.",
+     "options": [
+      "can't",
+      "must",
+      "could",
+      "can"
+     ],
+     "answer": 2
+    }
+   ],
+   "typing": [
+    {
+     "q": "I ___ hear you. Please speak louder.",
+     "answer": "can't",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "She ___ play the piano beautifully.",
+     "answer": "can",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "When I was young, I ___ run very fast.",
+     "answer": "could",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "___ you swim?",
+     "answer": "Can",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "He ___ read when he was four.",
+     "answer": "could",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "We ___ finish this today, I think.",
+     "answer": "can",
+     "hint": "Ketik jawaban yang tepat"
+    }
+   ]
+  },
+  {
+   "id": "g-a1-08",
+   "level": "A1",
+   "title": "Plural Nouns",
+   "explanation": "Kata benda jamak biasanya tambah -s atau -es (box → boxes, watch → watches). Kata berakhiran konsonan + y berubah jadi -ies (baby → babies). Beberapa kata tidak beraturan: child → children, man → men, foot → feet.",
+   "formula": "noun + -s/-es  /  konsonan + y → -ies  /  bentuk tidak beraturan",
+   "examples": [
+    {
+     "en": "There are three boxes on the floor.",
+     "id": "Ada tiga kotak di lantai."
+    },
+    {
+     "en": "The children are playing outside.",
+     "id": "Anak-anak sedang bermain di luar."
+    }
+   ],
+   "mc": [
+    {
+     "q": "One box, two ___.",
+     "options": [
+      "boxs",
+      "box",
+      "boxes",
+      "boxies"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "One child, two ___.",
+     "options": [
+      "childs",
+      "childes",
+      "children",
+      "child"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "One man, three ___.",
+     "options": [
+      "man",
+      "mens",
+      "men",
+      "mans"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "One baby, two ___.",
+     "options": [
+      "babys",
+      "baby",
+      "babyes",
+      "babies"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "One foot, two ___.",
+     "options": [
+      "foots",
+      "feets",
+      "foot",
+      "feet"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "One watch, two ___.",
+     "options": [
+      "watchs",
+      "watches",
+      "watchies",
+      "watch"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "One woman, two ___.",
+     "options": [
+      "womens",
+      "woman",
+      "women",
+      "womans"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "One tooth, two ___.",
+     "options": [
+      "tooth",
+      "teeths",
+      "teeth",
+      "tooths"
+     ],
+     "answer": 2
+    }
+   ],
+   "typing": [
+    {
+     "q": "One city, two ___.",
+     "answer": "cities",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "One potato, two ___.",
+     "answer": "potatoes",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "One person, many ___.",
+     "answer": "people",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "One mouse, two ___.",
+     "answer": "mice",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "One dish, two ___.",
+     "answer": "dishes",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "One sheep, two ___.",
+     "answer": "sheep",
+     "hint": "Ketik jawaban yang tepat"
+    }
+   ]
+  },
+  {
+   "id": "g-a1-09",
+   "level": "A1",
+   "title": "Pronouns & Possessives",
+   "explanation": "Subject pronoun (I, you, he, she, it, we, they) jadi subjek kalimat. Object pronoun (me, him, her, us, them) jadi objek. Possessive adjective (my, your, his, her, our, their) selalu diikuti kata benda; possessive pronoun (mine, yours, his, ours, theirs) berdiri sendiri.",
+   "formula": "Subject: I/he/she  /  Object: me/him/her  /  Possessive: my/his + noun",
+   "examples": [
+    {
+     "en": "This is my book. It is mine.",
+     "id": "Ini buku saya. Buku ini milik saya."
+    },
+    {
+     "en": "She loves him, and he loves her.",
+     "id": "Dia (perempuan) mencintainya (laki-laki), dan dia (laki-laki) mencintainya (perempuan)."
+    }
+   ],
+   "mc": [
+    {
+     "q": "___ is my best friend.",
+     "options": [
+      "Her",
+      "Him",
+      "Hers",
+      "She"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "I love ___ very much. (my mother)",
+     "options": [
+      "her",
+      "she",
+      "he",
+      "hers"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "This book is ___. (I)",
+     "options": [
+      "mine",
+      "me",
+      "I",
+      "my"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "___ are going to school now. (the boys)",
+     "options": [
+      "Their",
+      "They",
+      "Them",
+      "Theirs"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Please give the pen to ___. (I)",
+     "options": [
+      "I",
+      "mine",
+      "my",
+      "me"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "That is ___ house. (we)",
+     "options": [
+      "us",
+      "we",
+      "our",
+      "ours"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "___ is a good teacher. (he)",
+     "options": [
+      "His",
+      "Him",
+      "He",
+      "Himself"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "The dog is playing with ___ ball. (it)",
+     "options": [
+      "itself",
+      "it's",
+      "it",
+      "its"
+     ],
+     "answer": 3
+    }
+   ],
+   "typing": [
+    {
+     "q": "Is this ___ bag? (you)",
+     "answer": "your",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "They invited ___ to the party. (we)",
+     "answer": "us",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "This phone is ___. (she)",
+     "answer": "hers",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "___ like to read books. (I)",
+     "answer": "I",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "Give it to ___. (he)",
+     "answer": "him",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "That is ___ car over there. (they)",
+     "answer": "their",
+     "hint": "Ketik jawaban yang tepat"
+    }
+   ]
+  },
+  {
+   "id": "g-a1-10",
+   "level": "A1",
+   "title": "Adjectives (dasar)",
+   "explanation": "Adjective menjelaskan kata benda dan biasanya diletakkan sebelum kata benda (a big house) atau setelah to be (The house is big). Jangan memakai adverb (quickly) untuk menjelaskan kata benda.",
+   "formula": "adjective + noun  /  to be + adjective",
+   "examples": [
+    {
+     "en": "She is a happy girl.",
+     "id": "Dia adalah gadis yang bahagia."
+    },
+    {
+     "en": "The soup is hot.",
+     "id": "Sup itu panas."
+    }
+   ],
+   "mc": [
+    {
+     "q": "She is a ___ student. (clever)",
+     "options": [
+      "cleverly",
+      "cleverer",
+      "clever",
+      "cleverness"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "The weather is ___ today.",
+     "options": [
+      "coldness",
+      "colder",
+      "coldly",
+      "cold"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "This is a ___ book.",
+     "options": [
+      "goodly",
+      "better",
+      "well",
+      "good"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "He is a ___ driver.",
+     "options": [
+      "careful",
+      "carefulness",
+      "care",
+      "carefully"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "The movie was very ___.",
+     "options": [
+      "interesting",
+      "interested",
+      "interestingly",
+      "interest"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "She has a ___ voice.",
+     "options": [
+      "beautifully",
+      "beauty",
+      "beautifuller",
+      "beautiful"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "The test was ___.",
+     "options": [
+      "easily",
+      "easier",
+      "easy",
+      "easiness"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "He is a ___ boy.",
+     "options": [
+      "kind",
+      "kinder",
+      "kindness",
+      "kindly"
+     ],
+     "answer": 0
+    }
+   ],
+   "typing": [
+    {
+     "q": "This cake is ___.",
+     "answer": "delicious",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "The room is very ___.",
+     "answer": "clean",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "She wore a ___ dress.",
+     "answer": "red",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "The water is ___.",
+     "answer": "warm",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "He is a ___ man.",
+     "answer": "strong",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "The story was very ___.",
+     "answer": "sad",
+     "hint": "Ketik jawaban yang tepat"
+    }
+   ]
+  },
+  {
+   "id": "g-a2-01",
+   "level": "A2",
+   "title": "Past Continuous",
+   "explanation": "Past Continuous dipakai untuk kegiatan yang sedang berlangsung pada suatu waktu di masa lalu. Bentuknya: was/were + verb-ing. Sering dipakai bersama Past Simple untuk kejadian yang menyela.",
+   "formula": "Subject + was/were + verb-ing",
+   "examples": [
+    {
+     "en": "I was reading when you called.",
+     "id": "Saya sedang membaca ketika kamu menelepon."
+    },
+    {
+     "en": "They were playing football at 5 p.m.",
+     "id": "Mereka sedang bermain sepak bola jam 5 sore."
+    },
+    {
+     "en": "She was cooking when the phone rang.",
+     "id": "Dia sedang memasak ketika telepon berdering."
+    }
+   ],
+   "mc": [
+    {
+     "q": "The students ___ with friends every weekend",
+     "options": [
+      "sleeping",
+      "sleep",
+      "were sleeping",
+      "slept"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "They ___ at home every evening",
+     "options": [
+      "were swimming",
+      "swim",
+      "swam",
+      "swum"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "I ___ English every day",
+     "options": [
+      "ate",
+      "eaten",
+      "was eating",
+      "eat"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "We ___ in the library every week",
+     "options": [
+      "were buying",
+      "bought",
+      "buying",
+      "buy"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "I ___ English every day",
+     "options": [
+      "was eating",
+      "eaten",
+      "eat",
+      "ate"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "We ___ in the library every week",
+     "options": [
+      "buy",
+      "were buying",
+      "buying",
+      "bought"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "He ___ at school every day",
+     "options": [
+      "watched",
+      "was watching",
+      "watching",
+      "watch"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "They ___ at home every evening",
+     "options": [
+      "swim",
+      "were swimming",
+      "swam",
+      "swum"
+     ],
+     "answer": 1
+    }
+   ],
+   "typing": [
+    {
+     "q": "She ___ in the park every morning  (kata kerja: work)",
+     "answer": "was working",
+     "hint": "Bentuk past cont dari 'work'"
+    },
+    {
+     "q": "Rina ___ at the office every day  (kata kerja: live)",
+     "answer": "was living",
+     "hint": "Bentuk past cont dari 'live'"
+    },
+    {
+     "q": "He ___ at school every day  (kata kerja: watch)",
+     "answer": "was watching",
+     "hint": "Bentuk past cont dari 'watch'"
+    },
+    {
+     "q": "She ___ in the park every morning  (kata kerja: work)",
+     "answer": "was working",
+     "hint": "Bentuk past cont dari 'work'"
+    },
+    {
+     "q": "Rina ___ at the office every day  (kata kerja: live)",
+     "answer": "was living",
+     "hint": "Bentuk past cont dari 'live'"
+    },
+    {
+     "q": "My brother ___ at the market on Sundays  (kata kerja: clean)",
+     "answer": "was cleaning",
+     "hint": "Bentuk past cont dari 'clean'"
+    }
+   ]
+  },
+  {
+   "id": "g-a2-02",
+   "level": "A2",
+   "title": "Present Perfect (pengantar)",
+   "explanation": "Present Perfect menghubungkan masa lalu dengan sekarang: kejadian sudah terjadi, tetapi waktunya tidak disebutkan, atau hasilnya masih terasa. Bentuknya: have/has + verb-3 (past participle).",
+   "formula": "Subject + have/has + verb-3",
+   "examples": [
+    {
+     "en": "I have finished my homework.",
+     "id": "Saya sudah menyelesaikan PR saya."
+    },
+    {
+     "en": "She has visited Bali twice.",
+     "id": "Dia sudah mengunjungi Bali dua kali."
+    },
+    {
+     "en": "We have lived here since 2020.",
+     "id": "Kami sudah tinggal di sini sejak 2020."
+    }
+   ],
+   "mc": [
+    {
+     "q": "My brother ___ at the market on Sundays",
+     "options": [
+      "has cleaned",
+      "clean",
+      "cleaned",
+      "cleaning"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "She ___ in the park every morning",
+     "options": [
+      "working",
+      "work",
+      "worked",
+      "has worked"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "The students ___ with friends every weekend",
+     "options": [
+      "sleeping",
+      "have slept",
+      "sleep",
+      "slept"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "We ___ in the library every week",
+     "options": [
+      "have bought",
+      "buying",
+      "bought",
+      "buy"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "We ___ in the library every week",
+     "options": [
+      "have bought",
+      "bought",
+      "buy",
+      "buying"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "She ___ in the park every morning",
+     "options": [
+      "worked",
+      "work",
+      "working",
+      "has worked"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "They ___ at home every evening",
+     "options": [
+      "swum",
+      "swim",
+      "swam",
+      "have swum"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "Rina ___ at the office every day",
+     "options": [
+      "lived",
+      "live",
+      "living",
+      "has lived"
+     ],
+     "answer": 3
+    }
+   ],
+   "typing": [
+    {
+     "q": "I ___ English every day  (kata kerja: eat)",
+     "answer": "have eaten",
+     "hint": "Bentuk present perf dari 'eat'"
+    },
+    {
+     "q": "Rina ___ at the office every day  (kata kerja: live)",
+     "answer": "has lived",
+     "hint": "Bentuk present perf dari 'live'"
+    },
+    {
+     "q": "He ___ at school every day  (kata kerja: watch)",
+     "answer": "has watched",
+     "hint": "Bentuk present perf dari 'watch'"
+    },
+    {
+     "q": "They ___ at home every evening  (kata kerja: swim)",
+     "answer": "have swum",
+     "hint": "Bentuk present perf dari 'swim'"
+    },
+    {
+     "q": "I ___ English every day  (kata kerja: eat)",
+     "answer": "have eaten",
+     "hint": "Bentuk present perf dari 'eat'"
+    },
+    {
+     "q": "He ___ at school every day  (kata kerja: watch)",
+     "answer": "has watched",
+     "hint": "Bentuk present perf dari 'watch'"
+    }
+   ]
+  },
+  {
+   "id": "g-a2-03",
+   "level": "A2",
+   "title": "Future: will & going to",
+   "explanation": "Will dipakai untuk keputusan spontan, janji, dan prediksi umum. Going to dipakai untuk rencana yang sudah diputuskan dan prediksi berdasarkan bukti yang terlihat sekarang.",
+   "formula": "will + verb-1  /  am/is/are going to + verb-1",
+   "examples": [
+    {
+     "en": "I will help you with your bag.",
+     "id": "Saya akan membantumu membawa tasmu."
+    },
+    {
+     "en": "We are going to visit Yogyakarta next month.",
+     "id": "Kami akan mengunjungi Yogyakarta bulan depan."
+    },
+    {
+     "en": "Look at the clouds! It is going to rain.",
+     "id": "Lihat awannya! Sebentar lagi akan hujan."
+    }
+   ],
+   "mc": [
+    {
+     "q": "I ___ English every day tomorrow.",
+     "options": [
+      "eat",
+      "ate",
+      "will eat",
+      "eaten"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "She ___ in the park every morning tomorrow.",
+     "options": [
+      "is going to work",
+      "working",
+      "work",
+      "worked"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "He ___ at school every day tomorrow.",
+     "options": [
+      "watch",
+      "will watch",
+      "watched",
+      "watching"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "They ___ at home every evening tomorrow.",
+     "options": [
+      "are going to swim",
+      "swum",
+      "swim",
+      "swam"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "We ___ in the library every week tomorrow.",
+     "options": [
+      "buying",
+      "buy",
+      "bought",
+      "will buy"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "Rina ___ at the office every day tomorrow.",
+     "options": [
+      "live",
+      "is going to live",
+      "living",
+      "lived"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "My brother ___ at the market on Sundays tomorrow.",
+     "options": [
+      "will clean",
+      "cleaning",
+      "clean",
+      "cleaned"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "The students ___ with friends every weekend tomorrow.",
+     "options": [
+      "sleeping",
+      "slept",
+      "sleep",
+      "are going to sleep"
+     ],
+     "answer": 3
+    }
+   ],
+   "typing": [
+    {
+     "q": "I ___ English every day tomorrow.  (kata kerja: eat)",
+     "answer": "will eat",
+     "hint": "will atau be going to + kata kerja dasar"
+    },
+    {
+     "q": "She ___ in the park every morning tomorrow.  (kata kerja: work)",
+     "answer": "is going to work",
+     "hint": "will atau be going to + kata kerja dasar"
+    },
+    {
+     "q": "He ___ at school every day tomorrow.  (kata kerja: watch)",
+     "answer": "will watch",
+     "hint": "will atau be going to + kata kerja dasar"
+    },
+    {
+     "q": "They ___ at home every evening tomorrow.  (kata kerja: swim)",
+     "answer": "are going to swim",
+     "hint": "will atau be going to + kata kerja dasar"
+    },
+    {
+     "q": "We ___ in the library every week tomorrow.  (kata kerja: buy)",
+     "answer": "will buy",
+     "hint": "will atau be going to + kata kerja dasar"
+    },
+    {
+     "q": "Rina ___ at the office every day tomorrow.  (kata kerja: live)",
+     "answer": "is going to live",
+     "hint": "will atau be going to + kata kerja dasar"
+    }
+   ]
+  },
+  {
+   "id": "g-a2-04",
+   "level": "A2",
+   "title": "Comparatives & Superlatives",
+   "explanation": "Comparative membandingkan dua hal (bigger than), superlative membandingkan tiga hal atau lebih (the biggest). Adjective pendek tambah -er/-est, adjective panjang pakai more/most, dan ada yang tidak beraturan: good → better/best, bad → worse/worst.",
+   "formula": "short adj + -er/-est  /  more/most + long adj  /  good → better/best",
+   "examples": [
+    {
+     "en": "This book is more interesting than that one.",
+     "id": "Buku ini lebih menarik daripada yang itu."
+    },
+    {
+     "en": "She is the tallest student in the class.",
+     "id": "Dia siswa tertinggi di kelas."
+    }
+   ],
+   "mc": [
+    {
+     "q": "Mount Everest is ___ than Mount Bromo. (high)",
+     "options": [
+      "higher",
+      "high",
+      "highest",
+      "more high"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "She is the ___ student in our class. (smart)",
+     "options": [
+      "smarter",
+      "smartest",
+      "smart",
+      "more smart"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "This car is ___ than my old one. (expensive)",
+     "options": [
+      "expensiver",
+      "most expensive",
+      "more expensive",
+      "expensive"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "Today is ___ than yesterday. (hot)",
+     "options": [
+      "hottest",
+      "more hot",
+      "hot",
+      "hotter"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "He is ___ than his brother. (good)",
+     "options": [
+      "best",
+      "gooder",
+      "more good",
+      "better"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "That was the ___ film I have ever seen. (bad)",
+     "options": [
+      "worse",
+      "bad",
+      "worst",
+      "baddest"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "English is ___ than maths for me. (easy)",
+     "options": [
+      "easier",
+      "more easy",
+      "easy",
+      "easiest"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "She is the ___ girl in the school. (beautiful)",
+     "options": [
+      "most beautiful",
+      "beautiful",
+      "beautifullest",
+      "more beautiful"
+     ],
+     "answer": 0
+    }
+   ],
+   "typing": [
+    {
+     "q": "This road is ___ than the other one. (long)",
+     "answer": "longer",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "Winter is the ___ season of the year. (cold)",
+     "answer": "coldest",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "My bag is ___ than yours. (heavy)",
+     "answer": "heavier",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "He is ___ at English than me. (good)",
+     "answer": "better",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "This is the ___ day of my life. (happy)",
+     "answer": "happiest",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "The new phone is ___ than the old one. (fast)",
+     "answer": "faster",
+     "hint": "Ketik jawaban yang tepat"
+    }
+   ]
+  },
+  {
+   "id": "g-a2-05",
+   "level": "A2",
+   "title": "Countable/Uncountable & some/any/much/many",
+   "explanation": "Countable nouns bisa dihitung (apple, book) dan punya bentuk jamak. Uncountable nouns tidak bisa dihitung (water, money, information) dan tidak punya bentuk jamak. Many/much untuk kalimat negatif dan pertanyaan; some untuk positif; any untuk negatif dan pertanyaan.",
+   "formula": "many + countable  /  much + uncountable  /  some (+)  /  any (-/?)",
+   "examples": [
+    {
+     "en": "There isn't much water in the bottle.",
+     "id": "Tidak banyak air di dalam botol."
+    },
+    {
+     "en": "I have some friends in Jakarta.",
+     "id": "Saya punya beberapa teman di Jakarta."
+    }
+   ],
+   "mc": [
+    {
+     "q": "There isn't ___ milk in the fridge.",
+     "options": [
+      "much",
+      "several",
+      "a few",
+      "many"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "How ___ apples do you want?",
+     "options": [
+      "many",
+      "much",
+      "a little",
+      "a lot"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "I have ___ money, but not much.",
+     "options": [
+      "any",
+      "a few",
+      "many",
+      "some"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "She doesn't have ___ friends here.",
+     "options": [
+      "many",
+      "any",
+      "a few",
+      "some"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "There is ___ sugar in the tea.",
+     "options": [
+      "a few",
+      "several",
+      "many",
+      "a little"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "There are ___ books on the shelf.",
+     "options": [
+      "much",
+      "any",
+      "a few",
+      "a little"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "I don't have ___ time today.",
+     "options": [
+      "many",
+      "much",
+      "several",
+      "a few"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Do you have ___ questions?",
+     "options": [
+      "much",
+      "any",
+      "some",
+      "a little"
+     ],
+     "answer": 1
+    }
+   ],
+   "typing": [
+    {
+     "q": "We need ___ eggs for this cake.",
+     "answer": "some",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "There is too ___ traffic today.",
+     "answer": "much",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "He has ___ good ideas.",
+     "answer": "many",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "I need ___ information about the course.",
+     "answer": "some",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "She has ___ patience left.",
+     "answer": "little",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "There are ___ people waiting outside.",
+     "answer": "many",
+     "hint": "Ketik jawaban yang tepat"
+    }
+   ]
+  },
+  {
+   "id": "g-a2-06",
+   "level": "A2",
+   "title": "First Conditional",
+   "explanation": "First Conditional dipakai untuk situasi nyata yang mungkin terjadi di masa depan. Polanya: if + Present Simple, will + verb-1. Urutan klausa bisa dibalik (will... if...).",
+   "formula": "If + Present Simple, will + verb-1",
+   "examples": [
+    {
+     "en": "If it rains, we will stay at home.",
+     "id": "Jika hujan, kami akan tinggal di rumah."
+    },
+    {
+     "en": "If you study hard, you will pass the exam.",
+     "id": "Jika kamu belajar keras, kamu akan lulus ujian."
+    }
+   ],
+   "mc": [
+    {
+     "q": "If it rains, we ___ at home. (stay)",
+     "options": [
+      "are staying",
+      "stay",
+      "will stay",
+      "stayed"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "If you study hard, you ___ the exam. (pass)",
+     "options": [
+      "will pass",
+      "pass",
+      "passed",
+      "are passing"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "If she calls me, I ___ her. (help)",
+     "options": [
+      "help",
+      "am helping",
+      "helped",
+      "will help"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "We will go to the beach if the weather ___ good. (be)",
+     "options": [
+      "is",
+      "was",
+      "will be",
+      "be"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "If I ___ time, I will visit you. (have)",
+     "options": [
+      "had",
+      "am having",
+      "will have",
+      "have"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "If they don't hurry, they ___ the bus. (miss)",
+     "options": [
+      "miss",
+      "will miss",
+      "are missing",
+      "missed"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "If you heat water, it ___. (boil)",
+     "options": [
+      "boiled",
+      "will boil",
+      "is boiling",
+      "boils"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "She will be happy if you ___ her a gift. (give)",
+     "options": [
+      "gave",
+      "will give",
+      "give",
+      "are giving"
+     ],
+     "answer": 2
+    }
+   ],
+   "typing": [
+    {
+     "q": "If we ___ now, we will arrive on time. (leave)",
+     "answer": "leave",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "If he ___ hard, he will get a good job. (work)",
+     "answer": "works",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "You will be late if you ___ take a taxi. (not)",
+     "answer": "don't",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "If it ___ tomorrow, we will cancel the trip. (rain)",
+     "answer": "rains",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "If I see him, I ___ him your message. (tell)",
+     "answer": "will tell",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "If she ___ early, she will catch the train. (wake up)",
+     "answer": "wakes up",
+     "hint": "Ketik jawaban yang tepat"
+    }
+   ]
+  },
+  {
+   "id": "g-a2-07",
+   "level": "A2",
+   "title": "Must/Have to/Should",
+   "explanation": "Must dan have to sama-sama menyatakan kewajiban, tetapi must lebih personal dan kuat, have to lebih karena aturan dari luar. Should menyatakan saran, bukan kewajiban. Bentuk negatif mustn't = dilarang; don't have to = tidak wajib.",
+   "formula": "must/have to + verb-1 (kewajiban)  /  should + verb-1 (saran)",
+   "examples": [
+    {
+     "en": "You must wear a helmet.",
+     "id": "Kamu harus memakai helm."
+    },
+    {
+     "en": "You should drink more water.",
+     "id": "Kamu sebaiknya minum lebih banyak air."
+    }
+   ],
+   "mc": [
+    {
+     "q": "You ___ wear a seatbelt in a car. (aturan)",
+     "options": [
+      "must",
+      "should",
+      "can",
+      "may"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "I ___ go to work today. It is my day off.",
+     "options": [
+      "must",
+      "mustn't",
+      "shouldn't",
+      "don't have to"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "You ___ study harder if you want to pass.",
+     "options": [
+      "mustn't",
+      "don't have to",
+      "may",
+      "should"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "Students ___ be on time for class.",
+     "options": [
+      "may",
+      "have to",
+      "should",
+      "can"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "You ___ smoke here. It is forbidden.",
+     "options": [
+      "mustn't",
+      "shouldn't",
+      "don't have to",
+      "may"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "She ___ see a doctor. She looks very sick.",
+     "options": [
+      "should",
+      "mustn't",
+      "don't have to",
+      "may"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "We ___ finish this report today. The boss said so.",
+     "options": [
+      "have to",
+      "can",
+      "may",
+      "should"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "You ___ eat so much sugar. It is bad for you.",
+     "options": [
+      "may",
+      "don't have to",
+      "shouldn't",
+      "mustn't"
+     ],
+     "answer": 2
+    }
+   ],
+   "typing": [
+    {
+     "q": "I ___ get up early tomorrow. I have a meeting.",
+     "answer": "have to",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "You ___ talk loudly in the library.",
+     "answer": "mustn't",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "He ___ practise every day to improve.",
+     "answer": "should",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "Visitors ___ show their ID at the gate.",
+     "answer": "must",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "You ___ bring your own food. Lunch is provided.",
+     "answer": "don't have to",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "She ___ wear glasses to read.",
+     "answer": "has to",
+     "hint": "Ketik jawaban yang tepat"
+    }
+   ]
+  },
+  {
+   "id": "g-a2-08",
+   "level": "A2",
+   "title": "Adverbs of Frequency & Manner",
+   "explanation": "Adverb of frequency (always, usually, often, sometimes, rarely, never) biasanya diletakkan sebelum kata kerja utama, tetapi setelah to be. Adverb of manner (slowly, carefully, well) biasanya di akhir kalimat dan dibentuk dari adjective + -ly.",
+   "formula": "Subject + adverb + verb  /  to be + adverb  /  verb + adverb-ly",
+   "examples": [
+    {
+     "en": "She always arrives on time.",
+     "id": "Dia selalu tiba tepat waktu."
+    },
+    {
+     "en": "He drives carefully.",
+     "id": "Dia mengemudi dengan hati-hati."
+    }
+   ],
+   "mc": [
+    {
+     "q": "She ___ arrives on time. (always)",
+     "options": [
+      "never",
+      "usually",
+      "sometimes",
+      "always"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "He speaks English ___. (fluent)",
+     "options": [
+      "more fluent",
+      "fluently",
+      "fluency",
+      "fluent"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "They ___ go to the gym. (usually)",
+     "options": [
+      "rarely",
+      "usually",
+      "always",
+      "never"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Please listen ___. (careful)",
+     "options": [
+      "careful",
+      "more careful",
+      "carefully",
+      "carefulness"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "My father is ___ late. (never)",
+     "options": [
+      "always",
+      "usually",
+      "never",
+      "often"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "She sings very ___. (beautiful)",
+     "options": [
+      "beautifully",
+      "beautiful",
+      "more beautiful",
+      "beauty"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "We ___ watch TV in the evening. (sometimes)",
+     "options": [
+      "always",
+      "sometimes",
+      "rarely",
+      "never"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "He works ___. (hard)",
+     "options": [
+      "hardly",
+      "hard",
+      "hardness",
+      "harder"
+     ],
+     "answer": 1
+    }
+   ],
+   "typing": [
+    {
+     "q": "The teacher speaks ___. (slow)",
+     "answer": "slowly",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "I ___ eat breakfast at home. (often)",
+     "answer": "often",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "She is ___ happy today. (very)",
+     "answer": "very",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "He answered the question ___. (correct)",
+     "answer": "correctly",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "They ___ play football on Sundays. (usually)",
+     "answer": "usually",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "Please write your name ___. (clear)",
+     "answer": "clearly",
+     "hint": "Ketik jawaban yang tepat"
+    }
+   ]
+  },
+  {
+   "id": "g-a2-09",
+   "level": "A2",
+   "title": "Past Simple vs Past Continuous",
+   "explanation": "Past Simple = kejadian singkat yang sudah selesai. Past Continuous = kegiatan yang sedang berlangsung saat kejadian lain menyela. Pola khas: while + Past Continuous, when + Past Simple.",
+   "formula": "while + was/were + verb-ing, when + verb-2",
+   "examples": [
+    {
+     "en": "While I was walking home, it started to rain.",
+     "id": "Ketika saya sedang berjalan pulang, hujan mulai turun."
+    },
+    {
+     "en": "She was cooking when he arrived.",
+     "id": "Dia sedang memasak ketika dia tiba."
+    },
+    {
+     "en": "They were sleeping when the alarm rang.",
+     "id": "Mereka sedang tidur ketika alarm berbunyi."
+    }
+   ],
+   "mc": [
+    {
+     "q": "While I ___ (walk) home, it started to rain.",
+     "options": [
+      "walked",
+      "am walking",
+      "walk",
+      "was walking"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "She ___ (cook) dinner when he arrived.",
+     "options": [
+      "is cooking",
+      "was cooking",
+      "cooked",
+      "cooks"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "They ___ (sleep) when the alarm rang.",
+     "options": [
+      "are sleeping",
+      "were sleeping",
+      "slept",
+      "sleep"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "He ___ (drive) to work when the accident happened.",
+     "options": [
+      "drove",
+      "drives",
+      "was driving",
+      "is driving"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "While we ___ (study), the lights went out.",
+     "options": [
+      "study",
+      "are studying",
+      "were studying",
+      "studied"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "I ___ (read) a book when you called me.",
+     "options": [
+      "was reading",
+      "am reading",
+      "read",
+      "reads"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "The children ___ (play) outside when it started to rain.",
+     "options": [
+      "played",
+      "are playing",
+      "were playing",
+      "play"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "She broke her leg while she ___ (run) in the park.",
+     "options": [
+      "ran",
+      "runs",
+      "was running",
+      "is running"
+     ],
+     "answer": 2
+    }
+   ],
+   "typing": [
+    {
+     "q": "While he ___ (watch) TV, his phone rang.",
+     "answer": "was watching",
+     "hint": "Perhatikan keterangan waktunya"
+    },
+    {
+     "q": "We ___ (have) dinner when the guests arrived.",
+     "answer": "were having",
+     "hint": "Perhatikan keterangan waktunya"
+    },
+    {
+     "q": "It ___ (snow) when we left the house.",
+     "answer": "was snowing",
+     "hint": "Perhatikan keterangan waktunya"
+    },
+    {
+     "q": "My mother ___ (talk) on the phone when I came home.",
+     "answer": "was talking",
+     "hint": "Perhatikan keterangan waktunya"
+    },
+    {
+     "q": "While they ___ (wait) for the bus, they met an old friend.",
+     "answer": "were waiting",
+     "hint": "Perhatikan keterangan waktunya"
+    },
+    {
+     "q": "He ___ (fix) his bike when it started to get dark.",
+     "answer": "was fixing",
+     "hint": "Perhatikan keterangan waktunya"
+    }
+   ]
+  },
+  {
+   "id": "g-a2-10",
+   "level": "A2",
+   "title": "Used to",
+   "explanation": "Used to dipakai untuk kebiasaan atau keadaan di masa lalu yang sudah tidak terjadi lagi. Bentuknya: used to + verb-1. Jangan dikacaukan dengan be used to + verb-ing (terbiasa dengan sesuatu).",
+   "formula": "Subject + used to + verb-1",
+   "examples": [
+    {
+     "en": "I used to live in Bandung.",
+     "id": "Saya dulu tinggal di Bandung."
+    },
+    {
+     "en": "She used to play the piano.",
+     "id": "Dia dulu bermain piano."
+    }
+   ],
+   "mc": [
+    {
+     "q": "I ___ live in a small village. (dulu)",
+     "options": [
+      "am used to",
+      "am using to",
+      "used to",
+      "use to"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "She ___ play football when she was young.",
+     "options": [
+      "is used to",
+      "uses to",
+      "use to",
+      "used to"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "Did you ___ go to that school?",
+     "options": [
+      "use to",
+      "are used to",
+      "used to",
+      "using to"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "They ___ have a dog, but not anymore.",
+     "options": [
+      "use to",
+      "are used to",
+      "used to",
+      "uses to"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "He ___ smoke, but he stopped last year.",
+     "options": [
+      "use to",
+      "used to",
+      "uses to",
+      "is used to"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "We ___ visit our grandmother every Sunday.",
+     "options": [
+      "are used to",
+      "use to",
+      "uses to",
+      "used to"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "I am ___ getting up early now. (terbiasa)",
+     "options": [
+      "use to",
+      "used to",
+      "using to",
+      "am using to"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "She ___ be afraid of the dark.",
+     "options": [
+      "is used to",
+      "used to",
+      "uses to",
+      "use to"
+     ],
+     "answer": 1
+    }
+   ],
+   "typing": [
+    {
+     "q": "There ___ be a cinema here.",
+     "answer": "used to",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "He didn't ___ like vegetables.",
+     "answer": "use to",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "My father ___ work in a bank.",
+     "answer": "used to",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "We ___ go fishing together every weekend.",
+     "answer": "used to",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "I ___ ride my bike to school every day.",
+     "answer": "used to",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "She ___ have long hair.",
+     "answer": "used to",
+     "hint": "Ketik jawaban yang tepat"
+    }
+   ]
+  },
+  {
+   "id": "g-b1-01",
+   "level": "B1",
+   "title": "Present Perfect Continuous",
+   "explanation": "Present Perfect Continuous menekankan durasi: kegiatan yang dimulai di masa lalu dan masih berlangsung atau baru saja selesai. Bentuknya: have/has been + verb-ing.",
+   "formula": "Subject + have/has been + verb-ing",
+   "examples": [
+    {
+     "en": "I have been studying English for two years.",
+     "id": "Saya sudah belajar bahasa Inggris selama dua tahun."
+    },
+    {
+     "en": "She has been working since this morning.",
+     "id": "Dia sudah bekerja sejak pagi ini."
+    },
+    {
+     "en": "It has been raining all day.",
+     "id": "Hujan sudah turun sepanjang hari."
+    }
+   ],
+   "mc": [
+    {
+     "q": "We ___ in the library every week",
+     "options": [
+      "buying",
+      "buy",
+      "bought",
+      "have been buying"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "I ___ English every day",
+     "options": [
+      "have been eating",
+      "ate",
+      "eaten",
+      "eat"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "My brother ___ at the market on Sundays",
+     "options": [
+      "cleaning",
+      "cleaned",
+      "clean",
+      "has been cleaning"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "The students ___ with friends every weekend",
+     "options": [
+      "slept",
+      "sleep",
+      "have been sleeping",
+      "sleeping"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "He ___ at school every day",
+     "options": [
+      "watched",
+      "has been watching",
+      "watching",
+      "watch"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "She ___ in the park every morning",
+     "options": [
+      "working",
+      "has been working",
+      "worked",
+      "work"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "They ___ at home every evening",
+     "options": [
+      "have been swimming",
+      "swum",
+      "swam",
+      "swim"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "He ___ at school every day",
+     "options": [
+      "has been watching",
+      "watch",
+      "watched",
+      "watching"
+     ],
+     "answer": 0
+    }
+   ],
+   "typing": [
+    {
+     "q": "They ___ at home every evening  (kata kerja: swim)",
+     "answer": "have been swimming",
+     "hint": "Bentuk present perf cont dari 'swim'"
+    },
+    {
+     "q": "I ___ English every day  (kata kerja: eat)",
+     "answer": "have been eating",
+     "hint": "Bentuk present perf cont dari 'eat'"
+    },
+    {
+     "q": "Rina ___ at the office every day  (kata kerja: live)",
+     "answer": "has been living",
+     "hint": "Bentuk present perf cont dari 'live'"
+    },
+    {
+     "q": "Rina ___ at the office every day  (kata kerja: live)",
+     "answer": "has been living",
+     "hint": "Bentuk present perf cont dari 'live'"
+    },
+    {
+     "q": "We ___ in the library every week  (kata kerja: buy)",
+     "answer": "have been buying",
+     "hint": "Bentuk present perf cont dari 'buy'"
+    },
+    {
+     "q": "She ___ in the park every morning  (kata kerja: work)",
+     "answer": "has been working",
+     "hint": "Bentuk present perf cont dari 'work'"
+    }
+   ]
+  },
+  {
+   "id": "g-b1-02",
+   "level": "B1",
+   "title": "Past Perfect",
+   "explanation": "Past Perfect dipakai untuk kejadian yang terjadi lebih dulu dari kejadian lain di masa lalu. Bentuknya: had + verb-3. Urutannya: Past Perfect dulu, baru Past Simple.",
+   "formula": "Subject + had + verb-3",
+   "examples": [
+    {
+     "en": "The train had left before we arrived.",
+     "id": "Kereta sudah berangkat sebelum kami tiba."
+    },
+    {
+     "en": "She had finished her work when I called.",
+     "id": "Dia sudah menyelesaikan pekerjaannya ketika saya menelepon."
+    },
+    {
+     "en": "I had never seen snow before 2022.",
+     "id": "Saya belum pernah melihat salju sebelum 2022."
+    }
+   ],
+   "mc": [
+    {
+     "q": "Rina ___ at the office every day",
+     "options": [
+      "live",
+      "had lived",
+      "living",
+      "lived"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "I ___ English every day",
+     "options": [
+      "had eaten",
+      "eat",
+      "eaten",
+      "ate"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "We ___ in the library every week",
+     "options": [
+      "bought",
+      "had bought",
+      "buy",
+      "buying"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "The students ___ with friends every weekend",
+     "options": [
+      "sleep",
+      "had slept",
+      "slept",
+      "sleeping"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "She ___ in the park every morning",
+     "options": [
+      "worked",
+      "work",
+      "working",
+      "had worked"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "They ___ at home every evening",
+     "options": [
+      "swam",
+      "had swum",
+      "swum",
+      "swim"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "They ___ at home every evening",
+     "options": [
+      "had swum",
+      "swum",
+      "swam",
+      "swim"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "My brother ___ at the market on Sundays",
+     "options": [
+      "cleaning",
+      "cleaned",
+      "clean",
+      "had cleaned"
+     ],
+     "answer": 3
+    }
+   ],
+   "typing": [
+    {
+     "q": "Rina ___ at the office every day  (kata kerja: live)",
+     "answer": "had lived",
+     "hint": "Bentuk past perf dari 'live'"
+    },
+    {
+     "q": "She ___ in the park every morning  (kata kerja: work)",
+     "answer": "had worked",
+     "hint": "Bentuk past perf dari 'work'"
+    },
+    {
+     "q": "We ___ in the library every week  (kata kerja: buy)",
+     "answer": "had bought",
+     "hint": "Bentuk past perf dari 'buy'"
+    },
+    {
+     "q": "He ___ at school every day  (kata kerja: watch)",
+     "answer": "had watched",
+     "hint": "Bentuk past perf dari 'watch'"
+    },
+    {
+     "q": "I ___ English every day  (kata kerja: eat)",
+     "answer": "had eaten",
+     "hint": "Bentuk past perf dari 'eat'"
+    },
+    {
+     "q": "He ___ at school every day  (kata kerja: watch)",
+     "answer": "had watched",
+     "hint": "Bentuk past perf dari 'watch'"
+    }
+   ]
+  },
+  {
+   "id": "g-b1-03",
+   "level": "B1",
+   "title": "Second Conditional",
+   "explanation": "Second Conditional dipakai untuk situasi yang tidak nyata atau sangat tidak mungkin di masa kini/masa depan. Polanya: if + Past Simple, would + verb-1. Untuk to be, gunakan were untuk semua subjek (If I were you...).",
+   "formula": "If + Past Simple, would + verb-1",
+   "examples": [
+    {
+     "en": "If I had a lot of money, I would travel the world.",
+     "id": "Jika saya punya banyak uang, saya akan mengelilingi dunia."
+    },
+    {
+     "en": "If I were you, I would study harder.",
+     "id": "Jika saya jadi kamu, saya akan belajar lebih keras."
+    }
+   ],
+   "mc": [
+    {
+     "q": "If I ___ rich, I would buy a big house. (be)",
+     "options": [
+      "was",
+      "will be",
+      "were",
+      "am"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "If she studied harder, she ___ pass. (pass)",
+     "options": [
+      "passes",
+      "would pass",
+      "passed",
+      "will pass"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "If I had more time, I ___ learn French. (learn)",
+     "options": [
+      "learn",
+      "would learn",
+      "learned",
+      "will learn"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "What would you do if you ___ a million dollars? (win)",
+     "options": [
+      "have won",
+      "won",
+      "win",
+      "will win"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "If it ___ tomorrow, we would stay at home. (rain)",
+     "options": [
+      "rains",
+      "is raining",
+      "will rain",
+      "rained"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "If I were you, I ___ apologise. (apologise)",
+     "options": [
+      "shall",
+      "will",
+      "would",
+      "do"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "She would travel more if she ___ more money. (have)",
+     "options": [
+      "had",
+      "is having",
+      "has",
+      "will have"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "If we lived in London, we ___ English every day. (speak)",
+     "options": [
+      "spoke",
+      "speak",
+      "will speak",
+      "would speak"
+     ],
+     "answer": 3
+    }
+   ],
+   "typing": [
+    {
+     "q": "If he ___ harder, he would be the best. (train)",
+     "answer": "trained",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "I would help you if I ___. (can)",
+     "answer": "could",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "If they ___ earlier, they would catch the bus. (leave)",
+     "answer": "left",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "If I knew the answer, I ___ you. (tell)",
+     "answer": "would tell",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "She would be happier if she ___ her job. (like)",
+     "answer": "liked",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "If you ___ me, what would you say? (be)",
+     "answer": "were",
+     "hint": "Ketik jawaban yang tepat"
+    }
+   ]
+  },
+  {
+   "id": "g-b1-04",
+   "level": "B1",
+   "title": "Passive Voice (dasar)",
+   "explanation": "Passive dipakai bila pelaku tidak penting atau tidak diketahui. Bentuknya: to be + verb-3. Present Simple passive: is/are + verb-3. Past Simple passive: was/were + verb-3.",
+   "formula": "Subject + to be + verb-3 (past participle)",
+   "examples": [
+    {
+     "en": "The room is cleaned every day.",
+     "id": "Ruangan itu dibersihkan setiap hari."
+    },
+    {
+     "en": "This book was written in 1990.",
+     "id": "Buku ini ditulis pada tahun 1990."
+    }
+   ],
+   "mc": [
+    {
+     "q": "The room ___ every day. (clean)",
+     "options": [
+      "cleans",
+      "cleaned",
+      "is cleaned",
+      "is cleaning"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "This car ___ in Japan. (make)",
+     "options": [
+      "is making",
+      "is made",
+      "makes",
+      "made"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "The letter ___ yesterday. (send)",
+     "options": [
+      "sent",
+      "sends",
+      "is sent",
+      "was sent"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "English ___ in many countries. (speak)",
+     "options": [
+      "is speaking",
+      "spoke",
+      "speaks",
+      "is spoken"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "The house ___ in 2010. (build)",
+     "options": [
+      "builds",
+      "was built",
+      "is built",
+      "built"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "The windows ___ by the cleaner every morning. (wash)",
+     "options": [
+      "are washed",
+      "washed",
+      "wash",
+      "is washed"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "The film ___ last year. (watch)",
+     "options": [
+      "was watched",
+      "watched",
+      "watches",
+      "is watched"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Rice ___ in Indonesia. (grow)",
+     "options": [
+      "is growing",
+      "grew",
+      "grows",
+      "is grown"
+     ],
+     "answer": 3
+    }
+   ],
+   "typing": [
+    {
+     "q": "The cake ___ by my mother yesterday. (bake)",
+     "answer": "was baked",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "These shoes ___ in Italy. (make)",
+     "answer": "are made",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "The bridge ___ in 2005. (complete)",
+     "answer": "was completed",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "The homework ___ by the students now. (do)",
+     "answer": "is being done",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "The thief ___ by the police last night. (catch)",
+     "answer": "was caught",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "The results ___ tomorrow. (announce)",
+     "answer": "will be announced",
+     "hint": "Ketik jawaban yang tepat"
+    }
+   ]
+  },
+  {
+   "id": "g-b1-05",
+   "level": "B1",
+   "title": "Reported Speech (pengantar)",
+   "explanation": "Reported speech mengubah kalimat langsung menjadi tidak langsung. Kata kerja biasanya mundur satu tense: Present Simple → Past Simple, Present Continuous → Past Continuous, will → would. Kata ganti dan keterangan waktu ikut berubah.",
+   "formula": "He said (that) + Past Simple / Past Continuous / would",
+   "examples": [
+    {
+     "en": "Direct: 'I am tired.' → He said that he was tired.",
+     "id": "Langsung: 'Saya lelah.' → Dia berkata bahwa dia lelah."
+    },
+    {
+     "en": "Direct: 'I will come.' → She said that she would come.",
+     "id": "Langsung: 'Saya akan datang.' → Dia berkata bahwa dia akan datang."
+    }
+   ],
+   "mc": [
+    {
+     "q": "He said that he ___ tired. (be)",
+     "options": [
+      "was",
+      "is",
+      "will be",
+      "has been"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "She said that she ___ English. (study)",
+     "options": [
+      "was studying",
+      "studies",
+      "will study",
+      "is studying"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "They said that they ___ come tomorrow. (will)",
+     "options": [
+      "shall",
+      "will",
+      "would",
+      "can"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "He told me that he ___ a new car. (buy)",
+     "options": [
+      "had bought",
+      "has bought",
+      "buys",
+      "will buy"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "She said that she ___ in Jakarta. (live)",
+     "options": [
+      "will live",
+      "is living",
+      "lives",
+      "lived"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "He said: 'I can swim.' → He said that he ___ swim.",
+     "options": [
+      "can",
+      "will",
+      "may",
+      "could"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "Mary said that she ___ her keys. (lose)",
+     "options": [
+      "has lost",
+      "loses",
+      "will lose",
+      "had lost"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "He said that he ___ the film yesterday. (watch)",
+     "options": [
+      "will watch",
+      "had watched",
+      "has watched",
+      "watches"
+     ],
+     "answer": 1
+    }
+   ],
+   "typing": [
+    {
+     "q": "She told me that she ___ busy. (be)",
+     "answer": "was",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "They said that they ___ the game. (win)",
+     "answer": "had won",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "He said that he ___ to school by bus. (go)",
+     "answer": "went",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "She said: 'I am reading.' → She said that she ___ reading.",
+     "answer": "was",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "He told us that he ___ us. (help)",
+     "answer": "would help",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "She said that she ___ her homework. (finish)",
+     "answer": "had finished",
+     "hint": "Ketik jawaban yang tepat"
+    }
+   ]
+  },
+  {
+   "id": "g-b1-06",
+   "level": "B1",
+   "title": "Relative Clauses (who/which/that)",
+   "explanation": "Who untuk orang, which untuk benda/hewan, that untuk keduanya, where untuk tempat, when untuk waktu, whose untuk kepemilikan. Klausa ini memberi informasi tambahan tentang kata benda sebelumnya.",
+   "formula": "noun + who/which/that/where/when/whose + clause",
+   "examples": [
+    {
+     "en": "The man who lives next door is a doctor.",
+     "id": "Pria yang tinggal di sebelah adalah seorang dokter."
+    },
+    {
+     "en": "This is the book that I bought yesterday.",
+     "id": "Ini buku yang saya beli kemarin."
+    }
+   ],
+   "mc": [
+    {
+     "q": "The man ___ lives next door is a doctor.",
+     "options": [
+      "when",
+      "where",
+      "which",
+      "who"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "This is the book ___ I bought yesterday.",
+     "options": [
+      "where",
+      "that",
+      "who",
+      "when"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "The house ___ we live in is very old.",
+     "options": [
+      "when",
+      "where",
+      "who",
+      "which"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "I know a girl ___ speaks five languages.",
+     "options": [
+      "when",
+      "who",
+      "which",
+      "where"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "The car ___ is parked outside is mine.",
+     "options": [
+      "where",
+      "which",
+      "who",
+      "when"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Do you remember the day ___ we first met?",
+     "options": [
+      "which",
+      "where",
+      "who",
+      "when"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "The woman ___ bag was stolen called the police.",
+     "options": [
+      "which",
+      "who",
+      "whose",
+      "where"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "This is the school ___ I studied.",
+     "options": [
+      "where",
+      "when",
+      "who",
+      "which"
+     ],
+     "answer": 0
+    }
+   ],
+   "typing": [
+    {
+     "q": "The movie ___ we watched was amazing.",
+     "answer": "that",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "She has a friend ___ father is a pilot.",
+     "answer": "whose",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "The book ___ is on the table is mine.",
+     "answer": "which",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "I met a man ___ can speak Japanese.",
+     "answer": "who",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "The year ___ I was born was 2004.",
+     "answer": "when",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "The dog ___ is barking belongs to my neighbour.",
+     "answer": "which",
+     "hint": "Ketik jawaban yang tepat"
+    }
+   ]
+  },
+  {
+   "id": "g-b1-07",
+   "level": "B1",
+   "title": "Modals of Deduction (must/might/can't)",
+   "explanation": "Must + be/have menunjukkan kesimpulan yang hampir pasti benar. Might/may + be menunjukkan kemungkinan. Can't menunjukkan kesimpulan yang hampir pasti salah. Polanya: modal + be / have + verb-3.",
+   "formula": "must/might/can't + be  /  must/might/can't + have + verb-3",
+   "examples": [
+    {
+     "en": "She must be tired after the long trip.",
+     "id": "Dia pasti lelah setelah perjalanan panjang itu."
+    },
+    {
+     "en": "He can't be at home. I saw him at school.",
+     "id": "Dia tidak mungkin di rumah. Saya melihatnya di sekolah."
+    }
+   ],
+   "mc": [
+    {
+     "q": "She ___ be tired. She worked all night.",
+     "options": [
+      "might",
+      "couldn't",
+      "must",
+      "can't"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "He ___ be at home. I just saw him at the mall.",
+     "options": [
+      "could",
+      "can't",
+      "might",
+      "must"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "It ___ rain later. The sky is cloudy.",
+     "options": [
+      "mustn't",
+      "might",
+      "can't",
+      "must"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "They ___ have left already. The house is empty.",
+     "options": [
+      "can't",
+      "might",
+      "must",
+      "couldn't"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "She ___ be the new teacher. She looks too young.",
+     "options": [
+      "might",
+      "must",
+      "could",
+      "can't"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "He ___ be hungry. He hasn't eaten since morning.",
+     "options": [
+      "might",
+      "can't",
+      "couldn't",
+      "must"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "The keys ___ be in my bag. I can't find them.",
+     "options": [
+      "can't",
+      "must",
+      "might",
+      "mustn't"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "You ___ have seen him. He was abroad all week.",
+     "options": [
+      "could",
+      "can't",
+      "must",
+      "might"
+     ],
+     "answer": 1
+    }
+   ],
+   "typing": [
+    {
+     "q": "It ___ be true. It sounds impossible.",
+     "answer": "can't",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "She ___ have forgotten the meeting. She is usually on time.",
+     "answer": "can't",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "He ___ be sleeping. It is very late.",
+     "answer": "must",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "This ___ be the right address. The house looks empty.",
+     "answer": "can't",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "They ___ be happy with the result.",
+     "answer": "must",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "She ___ have gone to bed early. She is still online.",
+     "answer": "can't",
+     "hint": "Ketik jawaban yang tepat"
+    }
+   ]
+  },
+  {
+   "id": "g-b1-08",
+   "level": "B1",
+   "title": "Gerund & Infinitive",
+   "explanation": "Beberapa kata kerja diikuti gerund (verb-ing): enjoy, avoid, finish, mind, suggest. Beberapa diikuti infinitive (to + verb-1): want, decide, hope, plan, promise. Beberapa bisa keduanya dengan arti berbeda: stop, remember, try.",
+   "formula": "enjoy/avoid/finish + verb-ing  /  want/decide/hope + to + verb-1",
+   "examples": [
+    {
+     "en": "I enjoy reading books.",
+     "id": "Saya suka membaca buku."
+    },
+    {
+     "en": "She decided to study abroad.",
+     "id": "Dia memutuskan untuk belajar di luar negeri."
+    }
+   ],
+   "mc": [
+    {
+     "q": "I enjoy ___ books. (read)",
+     "options": [
+      "reads",
+      "to read",
+      "reading",
+      "read"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "She decided ___ abroad. (study)",
+     "options": [
+      "studies",
+      "study",
+      "to study",
+      "studying"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "They finished ___ their homework. (do)",
+     "options": [
+      "do",
+      "to do",
+      "doing",
+      "does"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "He wants ___ a new car. (buy)",
+     "options": [
+      "to buy",
+      "buys",
+      "buy",
+      "buying"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "We avoid ___ in the rain. (walk)",
+     "options": [
+      "walking",
+      "walk",
+      "to walk",
+      "walks"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "She hopes ___ a doctor one day. (become)",
+     "options": [
+      "becoming",
+      "become",
+      "becomes",
+      "to become"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "I don't mind ___ you. (help)",
+     "options": [
+      "to help",
+      "help",
+      "helping",
+      "helps"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "He promised ___ on time. (come)",
+     "options": [
+      "to come",
+      "come",
+      "comes",
+      "coming"
+     ],
+     "answer": 0
+    }
+   ],
+   "typing": [
+    {
+     "q": "They suggested ___ a new plan. (make)",
+     "answer": "making",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "She plans ___ English next year. (learn)",
+     "answer": "to learn",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "Stop ___ so much noise! (make)",
+     "answer": "making",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "I remember ___ my grandmother's house. (visit)",
+     "answer": "visiting",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "He tried ___ the door, but it was locked. (open)",
+     "answer": "to open",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "We need ___ more about this topic. (know)",
+     "answer": "to know",
+     "hint": "Ketik jawaban yang tepat"
+    }
+   ]
+  },
+  {
+   "id": "g-b1-09",
+   "level": "B1",
+   "title": "Present Perfect vs Past Simple",
+   "explanation": "Present Perfect dipakai bila waktunya tidak disebutkan atau masih berhubungan dengan sekarang (already, just, since, ever). Past Simple dipakai bila waktunya sudah selesai dan disebutkan (yesterday, last year, in 2019).",
+   "formula": "have/has + verb-3 (waktu tidak disebut)  /  verb-2 + waktu yang disebut",
+   "examples": [
+    {
+     "en": "I have just finished my work.",
+     "id": "Saya baru saja menyelesaikan pekerjaan saya."
+    },
+    {
+     "en": "I finished my work yesterday.",
+     "id": "Saya menyelesaikan pekerjaan saya kemarin."
+    },
+    {
+     "en": "She has lived here since 2020.",
+     "id": "Dia sudah tinggal di sini sejak 2020."
+    }
+   ],
+   "mc": [
+    {
+     "q": "I ___ (finish) my homework yesterday.",
+     "options": [
+      "am finishing",
+      "have finished",
+      "finish",
+      "finished"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "She ___ (visit) Bali twice. She loves it there.",
+     "options": [
+      "is visiting",
+      "visits",
+      "has visited",
+      "visited"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "We ___ (live) here since 2020.",
+     "options": [
+      "are living",
+      "live",
+      "have lived",
+      "lived"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "They ___ (buy) a new car last month.",
+     "options": [
+      "have bought",
+      "are buying",
+      "bought",
+      "buy"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "He ___ (just / eat) lunch.",
+     "options": [
+      "has just eaten",
+      "is just eating",
+      "just eats",
+      "just ate"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "I ___ (see) that film in 2021.",
+     "options": [
+      "see",
+      "am seeing",
+      "saw",
+      "have seen"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "___ you ever ___ (try) Indonesian food?",
+     "options": [
+      "Are / trying",
+      "Did / try",
+      "Do / try",
+      "Have / tried"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "She ___ (work) at this school for five years.",
+     "options": [
+      "has worked",
+      "worked",
+      "is working",
+      "works"
+     ],
+     "answer": 0
+    }
+   ],
+   "typing": [
+    {
+     "q": "We ___ (meet) our teacher last Monday.",
+     "answer": "met",
+     "hint": "Perhatikan keterangan waktunya"
+    },
+    {
+     "q": "I ___ (already / read) this book.",
+     "answer": "have already read",
+     "hint": "Perhatikan keterangan waktunya"
+    },
+    {
+     "q": "He ___ (go) to Jakarta last weekend.",
+     "answer": "went",
+     "hint": "Perhatikan keterangan waktunya"
+    },
+    {
+     "q": "They ___ (not / finish) the project yet.",
+     "answer": "have not finished",
+     "hint": "Perhatikan keterangan waktunya"
+    },
+    {
+     "q": "My brother ___ (graduate) in 2023.",
+     "answer": "graduated",
+     "hint": "Perhatikan keterangan waktunya"
+    },
+    {
+     "q": "We ___ (know) each other since we were children.",
+     "answer": "have known",
+     "hint": "Perhatikan keterangan waktunya"
+    }
+   ]
+  },
+  {
+   "id": "g-b1-10",
+   "level": "B1",
+   "title": "Question Tags",
+   "explanation": "Question tag adalah pertanyaan pendek di akhir kalimat untuk meminta konfirmasi. Bila kalimat positif, tag-nya negatif; bila kalimat negatif, tag-nya positif. Gunakan auxiliary yang sama dan pronoun yang sesuai subjek.",
+   "formula": "positive sentence + negative tag  /  negative sentence + positive tag",
+   "examples": [
+    {
+     "en": "You are a student, aren't you?",
+     "id": "Kamu seorang siswa, bukan?"
+    },
+    {
+     "en": "She doesn't like coffee, does she?",
+     "id": "Dia tidak suka kopi, kan?"
+    }
+   ],
+   "mc": [
+    {
+     "q": "You are a student, ___?",
+     "options": [
+      "isn't you",
+      "aren't you",
+      "don't you",
+      "are you"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "She likes coffee, ___?",
+     "options": [
+      "doesn't she",
+      "don't she",
+      "isn't she",
+      "does she"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "They didn't come, ___?",
+     "options": [
+      "did they",
+      "don't they",
+      "didn't they",
+      "do they"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "He can swim, ___?",
+     "options": [
+      "doesn't he",
+      "can he",
+      "can't he",
+      "isn't he"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "It is raining, ___?",
+     "options": [
+      "don't it",
+      "is it",
+      "isn't it",
+      "doesn't it"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "We have finished, ___?",
+     "options": [
+      "haven't we",
+      "have we",
+      "don't we",
+      "didn't we"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "She won't be late, ___?",
+     "options": [
+      "is she",
+      "will she",
+      "does she",
+      "won't she"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "They are playing, ___?",
+     "options": [
+      "aren't they",
+      "isn't they",
+      "don't they",
+      "are they"
+     ],
+     "answer": 0
+    }
+   ],
+   "typing": [
+    {
+     "q": "You don't like tea, ___?",
+     "answer": "do you",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "He was at home, ___?",
+     "answer": "wasn't he",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "Let's go, ___?",
+     "answer": "shall we",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "She has a car, ___?",
+     "answer": "doesn't she",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "They will come, ___?",
+     "answer": "won't they",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "I am right, ___?",
+     "answer": "aren't I",
+     "hint": "Ketik jawaban yang tepat"
+    }
+   ]
+  },
+  {
+   "id": "g-b2-01",
+   "level": "B2",
+   "title": "Third Conditional",
+   "explanation": "Third Conditional dipakai untuk situasi masa lalu yang sudah tidak bisa diubah (penyesalan atau imajinasi). Polanya: if + Past Perfect, would have + verb-3.",
+   "formula": "If + had + verb-3, would have + verb-3",
+   "examples": [
+    {
+     "en": "If I had studied harder, I would have passed the exam.",
+     "id": "Jika saya belajar lebih keras, saya pasti sudah lulus ujian."
+    },
+    {
+     "en": "If she had left earlier, she would have caught the train.",
+     "id": "Jika dia berangkat lebih awal, dia pasti sudah mengejar kereta."
+    }
+   ],
+   "mc": [
+    {
+     "q": "If I had studied harder, I ___ the exam. (pass)",
+     "options": [
+      "have passed",
+      "will pass",
+      "would pass",
+      "would have passed"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "If she had left earlier, she ___ the train. (catch)",
+     "options": [
+      "has caught",
+      "will catch",
+      "would catch",
+      "would have caught"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "If we had known, we ___ you. (help)",
+     "options": [
+      "have helped",
+      "would have helped",
+      "will help",
+      "would help"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "He wouldn't have failed if he ___ harder. (work)",
+     "options": [
+      "worked",
+      "had worked",
+      "works",
+      "has worked"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "If I ___ more money, I would have bought it. (have)",
+     "options": [
+      "will have",
+      "had",
+      "have",
+      "had had"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "They would have won if they ___ better. (play)",
+     "options": [
+      "have played",
+      "played",
+      "play",
+      "had played"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "If it hadn't rained, we ___ to the beach. (go)",
+     "options": [
+      "will go",
+      "would go",
+      "have gone",
+      "would have gone"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "She would have been happy if you ___ her. (call)",
+     "options": [
+      "have called",
+      "had called",
+      "call",
+      "called"
+     ],
+     "answer": 1
+    }
+   ],
+   "typing": [
+    {
+     "q": "If he had listened, he ___ the mistake. (not / make)",
+     "answer": "wouldn't have made",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "We would have arrived on time if the traffic ___ bad. (not / be)",
+     "answer": "hadn't been",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "If I had seen him, I ___ hello. (say)",
+     "answer": "would have said",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "He would have got the job if he ___ for the interview. (prepare)",
+     "answer": "had prepared",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "If she had taken my advice, she ___ in trouble now. (not / be)",
+     "answer": "wouldn't have been",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "If they had booked earlier, they ___ cheaper tickets. (get)",
+     "answer": "would have got",
+     "hint": "Ketik jawaban yang tepat"
+    }
+   ]
+  },
+  {
+   "id": "g-b2-02",
+   "level": "B2",
+   "title": "Mixed Conditionals",
+   "explanation": "Mixed Conditional menggabungkan kondisi masa lalu dengan hasil di masa kini: if + Past Perfect, would + verb-1. Atau sebaliknya: kondisi masa kini dengan hasil masa lalu: if + Past Simple, would have + verb-3.",
+   "formula": "If + had + verb-3, would + verb-1  /  If + Past Simple, would have + verb-3",
+   "examples": [
+    {
+     "en": "If I had saved more money, I would be rich now.",
+     "id": "Jika saya menabung lebih banyak, saya pasti kaya sekarang."
+    },
+    {
+     "en": "If she weren't so busy, she would have come yesterday.",
+     "id": "Jika dia tidak sesibuk itu, dia pasti sudah datang kemarin."
+    }
+   ],
+   "mc": [
+    {
+     "q": "If I had saved more money, I ___ rich now. (be)",
+     "options": [
+      "will be",
+      "would have been",
+      "would be",
+      "am"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "If she had studied medicine, she ___ a doctor now. (be)",
+     "options": [
+      "will be",
+      "is",
+      "would be",
+      "would have been"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "If he weren't so shy, he ___ the job. (get)",
+     "options": [
+      "would have got",
+      "has got",
+      "would get",
+      "will get"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "If I had taken that job, I ___ in Jakarta now. (live)",
+     "options": [
+      "would be living",
+      "will live",
+      "would have lived",
+      "am living"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "If you had listened to me, you ___ in trouble now. (not / be)",
+     "options": [
+      "wouldn't be",
+      "wouldn't have been",
+      "won't be",
+      "aren't"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "If she spoke English better, she ___ the interview. (pass)",
+     "options": [
+      "would have passed",
+      "would pass",
+      "will pass",
+      "has passed"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "If they had left earlier, they ___ here now. (be)",
+     "options": [
+      "will be",
+      "are",
+      "would have been",
+      "would be"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "If I weren't afraid of flying, I ___ to Europe last year. (travel)",
+     "options": [
+      "will travel",
+      "have travelled",
+      "would have travelled",
+      "would travel"
+     ],
+     "answer": 2
+    }
+   ],
+   "typing": [
+    {
+     "q": "If he had a car, he ___ to the beach yesterday. (drive)",
+     "answer": "would have driven",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "If we had more money, we ___ a house last year. (buy)",
+     "answer": "would have bought",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "If she had practised more, she ___ better now. (play)",
+     "answer": "would play",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "If I had known the truth, I ___ differently. (act)",
+     "answer": "would act",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "If he were taller, he ___ in the basketball team. (be)",
+     "answer": "would have been",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "If they had more experience, they ___ the project. (finish)",
+     "answer": "would have finished",
+     "hint": "Ketik jawaban yang tepat"
+    }
+   ]
+  },
+  {
+   "id": "g-b2-03",
+   "level": "B2",
+   "title": "Passive Voice (lanjut)",
+   "explanation": "Bentuk passive lanjutan: Present Perfect passive (has/have been + verb-3), modal passive (must/can/should be + verb-3), dan passive dengan dua objek. Fokus tetap pada penerima aksi, bukan pelaku.",
+   "formula": "have/has been + verb-3  /  modal + be + verb-3",
+   "examples": [
+    {
+     "en": "The report has been finished.",
+     "id": "Laporan itu sudah diselesaikan."
+    },
+    {
+     "en": "The documents must be signed today.",
+     "id": "Dokumen-dokumen itu harus ditandatangani hari ini."
+    }
+   ],
+   "mc": [
+    {
+     "q": "The report ___ already. (finish)",
+     "options": [
+      "has finished",
+      "has been finished",
+      "was finished",
+      "is finished"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "The documents ___ today. (sign)",
+     "options": [
+      "must sign",
+      "must be signed",
+      "must be sign",
+      "must signed"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "The house ___ since 2020. (renovate)",
+     "options": [
+      "is renovated",
+      "has been renovated",
+      "was renovated",
+      "has renovated"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "English ___ all over the world. (speak)",
+     "options": [
+      "speaks",
+      "is speaking",
+      "is spoken",
+      "has spoken"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "The thief ___ by the police. (arrest)",
+     "options": [
+      "has arrested",
+      "is arrested",
+      "has been arrested",
+      "was arrested"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "This problem ___ soon. (solve)",
+     "options": [
+      "should be solved",
+      "should be solve",
+      "should solved",
+      "should solve"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "The new hospital ___ next year. (build)",
+     "options": [
+      "will built",
+      "will be build",
+      "will build",
+      "will be built"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "The letters ___ yet. (not / deliver)",
+     "options": [
+      "haven't been delivered",
+      "weren't delivered",
+      "haven't delivered",
+      "aren't delivered"
+     ],
+     "answer": 0
+    }
+   ],
+   "typing": [
+    {
+     "q": "The work ___ by the team every day. (check)",
+     "answer": "is checked",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "Smoking ___ here. (not / allow)",
+     "answer": "is not allowed",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "The cake ___ by my sister this morning. (make)",
+     "answer": "was made",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "The rules ___ to all students. (explain)",
+     "answer": "have been explained",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "The project ___ by the end of the month. (complete)",
+     "answer": "must be completed",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "The books ___ to the library yesterday. (return)",
+     "answer": "were returned",
+     "hint": "Ketik jawaban yang tepat"
+    }
+   ]
+  },
+  {
+   "id": "g-b2-04",
+   "level": "B2",
+   "title": "Reported Speech (lanjut)",
+   "explanation": "Pada reported speech lanjutan, perhatikan pergeseran waktu: yesterday → the day before, tomorrow → the next day, last week → the week before, now → then, here → there. Pertanyaan reported memakai kata tanya + urutan kalimat berita (tanpa do/does/did).",
+   "formula": "He asked where/when/if + subject + verb (urutan berita)",
+   "examples": [
+    {
+     "en": "He asked me where I lived.",
+     "id": "Dia bertanya di mana saya tinggal."
+    },
+    {
+     "en": "She asked if I had finished my work.",
+     "id": "Dia bertanya apakah saya sudah menyelesaikan pekerjaan saya."
+    }
+   ],
+   "mc": [
+    {
+     "q": "He asked me where I ___. (live)",
+     "options": [
+      "live",
+      "lived",
+      "will live",
+      "am living"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "She asked if I ___ my homework. (finish)",
+     "options": [
+      "finish",
+      "have finished",
+      "had finished",
+      "will finish"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "He said he ___ the day before. (arrive)",
+     "options": [
+      "had arrived",
+      "arrives",
+      "will arrive",
+      "arrived"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "She asked me when I ___ born. (be)",
+     "options": [
+      "was",
+      "am",
+      "will be",
+      "have been"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "They asked if we ___ to the party. (come)",
+     "options": [
+      "come",
+      "would come",
+      "will come",
+      "are coming"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "He asked what time the meeting ___. (start)",
+     "options": [
+      "will start",
+      "is starting",
+      "starts",
+      "started"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "She said she ___ the next day. (leave)",
+     "options": [
+      "would leave",
+      "is leaving",
+      "will leave",
+      "leaves"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "He asked me how long I ___ English. (study)",
+     "options": [
+      "had been studying",
+      "study",
+      "am studying",
+      "have been studying"
+     ],
+     "answer": 0
+    }
+   ],
+   "typing": [
+    {
+     "q": "She asked if I ___ her book. (see)",
+     "answer": "had seen",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "He told me that he ___ busy then. (be)",
+     "answer": "was",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "She asked why I ___ late. (be)",
+     "answer": "was",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "They asked whether we ___ the film. (enjoy)",
+     "answer": "had enjoyed",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "He said he ___ there the week before. (go)",
+     "answer": "had gone",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "She asked me if I ___ help her. (can)",
+     "answer": "could",
+     "hint": "Ketik jawaban yang tepat"
+    }
+   ]
+  },
+  {
+   "id": "g-b2-05",
+   "level": "B2",
+   "title": "Wish & If only",
+   "explanation": "Wish + Past Simple untuk keinginan tentang masa kini yang tidak nyata. Wish + Past Perfect untuk penyesalan tentang masa lalu. Wish + would untuk keluhan tentang kebiasaan orang lain atau masa depan.",
+   "formula": "wish + Past Simple (kini)  /  wish + Past Perfect (lalu)  /  wish + would",
+   "examples": [
+    {
+     "en": "I wish I had more money.",
+     "id": "Andai saya punya lebih banyak uang."
+    },
+    {
+     "en": "I wish I had studied harder.",
+     "id": "Andai saya belajar lebih keras dulu."
+    }
+   ],
+   "mc": [
+    {
+     "q": "I wish I ___ more money. (have)",
+     "options": [
+      "have",
+      "have had",
+      "had",
+      "will have"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "I wish I ___ harder at school. (study)",
+     "options": [
+      "studied",
+      "will study",
+      "had studied",
+      "study"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "She wishes she ___ speak French. (can)",
+     "options": [
+      "may",
+      "can",
+      "could",
+      "will"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "I wish it ___ raining now. (stop)",
+     "options": [
+      "would stop",
+      "stopped",
+      "stops",
+      "will stop"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "He wishes he ___ the job. (not / lose)",
+     "options": [
+      "won't lose",
+      "doesn't lose",
+      "didn't lose",
+      "hadn't lost"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "We wish we ___ in a bigger house. (live)",
+     "options": [
+      "lived",
+      "will live",
+      "have lived",
+      "live"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "I wish you ___ so loudly. (not / talk)",
+     "options": [
+      "wouldn't talk",
+      "won't talk",
+      "don't talk",
+      "didn't talk"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "She wishes she ___ the train. (not / miss)",
+     "options": [
+      "won't miss",
+      "hadn't missed",
+      "didn't miss",
+      "doesn't miss"
+     ],
+     "answer": 1
+    }
+   ],
+   "typing": [
+    {
+     "q": "If only I ___ younger! (be)",
+     "answer": "were",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "I wish I ___ more time to practise. (have)",
+     "answer": "had",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "He wishes he ___ to university. (go)",
+     "answer": "had gone",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "We wish it ___ sunny tomorrow. (be)",
+     "answer": "were",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "She wishes her parents ___ her more. (understand)",
+     "answer": "understood",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "I wish I ___ your phone number. (know)",
+     "answer": "knew",
+     "hint": "Ketik jawaban yang tepat"
+    }
+   ]
+  },
+  {
+   "id": "g-b2-06",
+   "level": "B2",
+   "title": "Inversion (pengantar)",
+   "explanation": "Inversion dipakai setelah kata negatif di awal kalimat (Never, Hardly, Rarely, Not only, No sooner) untuk penekanan. Polanya: kata negatif + auxiliary + subject + verb. Dalam bahasa formal, inversion membuat kalimat terdengar lebih kuat.",
+   "formula": "Never/Hardly/Rarely + auxiliary + subject + verb",
+   "examples": [
+    {
+     "en": "Never have I seen such a beautiful place.",
+     "id": "Saya belum pernah melihat tempat seindah itu."
+    },
+    {
+     "en": "Hardly had we arrived when it started to rain.",
+     "id": "Kami baru saja tiba ketika hujan mulai turun."
+    }
+   ],
+   "mc": [
+    {
+     "q": "Never ___ I seen such a beautiful place. (have)",
+     "options": [
+      "has",
+      "had",
+      "do",
+      "have"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "Hardly ___ we arrived when it started to rain. (had)",
+     "options": [
+      "did",
+      "have",
+      "had",
+      "has"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "Rarely ___ she late for work. (is)",
+     "options": [
+      "does",
+      "is",
+      "has",
+      "was"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Not only ___ he rich, but he is also kind. (is)",
+     "options": [
+      "does",
+      "was",
+      "is",
+      "has"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "No sooner ___ we sat down than the phone rang. (had)",
+     "options": [
+      "had",
+      "has",
+      "did",
+      "have"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Seldom ___ I eat fast food. (do)",
+     "options": [
+      "did",
+      "do",
+      "does",
+      "am"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "Never before ___ I felt so happy. (have)",
+     "options": [
+      "have",
+      "had",
+      "has",
+      "do"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "Little ___ they know about the truth. (do)",
+     "options": [
+      "do",
+      "have",
+      "did",
+      "does"
+     ],
+     "answer": 2
+    }
+   ],
+   "typing": [
+    {
+     "q": "Only after the rain ___ we go outside. (did)",
+     "answer": "did",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "Hardly ever ___ he watch TV. (does)",
+     "answer": "does",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "Never ___ she been so angry. (has)",
+     "answer": "has",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "Not until yesterday ___ I understand the problem. (did)",
+     "answer": "did",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "Rarely ___ it snow in this city. (does)",
+     "answer": "does",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "Only then ___ we realise the mistake. (did)",
+     "answer": "did",
+     "hint": "Ketik jawaban yang tepat"
+    }
+   ]
+  },
+  {
+   "id": "g-b2-07",
+   "level": "B2",
+   "title": "Causative (have/get something done)",
+   "explanation": "Causative dipakai ketika kita menyuruh orang lain melakukan sesuatu untuk kita. Polanya: have/get + object + verb-3. Have lebih netral, get lebih informal dan menekankan usaha.",
+   "formula": "have/get + object + verb-3",
+   "examples": [
+    {
+     "en": "I had my hair cut yesterday.",
+     "id": "Saya memotong rambut kemarin (oleh tukang cukur)."
+    },
+    {
+     "en": "She got her car repaired.",
+     "id": "Dia memperbaiki mobilnya (oleh montir)."
+    }
+   ],
+   "mc": [
+    {
+     "q": "I had my hair ___ yesterday. (cut)",
+     "options": [
+      "cutted",
+      "cut",
+      "cutting",
+      "cuts"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "She got her car ___. (repair)",
+     "options": [
+      "repairing",
+      "repair",
+      "repairs",
+      "repaired"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "We had our house ___ last year. (paint)",
+     "options": [
+      "painting",
+      "paint",
+      "painted",
+      "paints"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "He is having his computer ___ now. (fix)",
+     "options": [
+      "fix",
+      "fixes",
+      "fixed",
+      "fixing"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "They got their wedding photos ___ by a professional. (take)",
+     "options": [
+      "taken",
+      "takes",
+      "took",
+      "taking"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "I need to get my shoes ___. (clean)",
+     "options": [
+      "clean",
+      "cleaned",
+      "cleans",
+      "cleaning"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "She had her dress ___ for the party. (make)",
+     "options": [
+      "made",
+      "make",
+      "makes",
+      "making"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "We are getting our roof ___. (repair)",
+     "options": [
+      "repairing",
+      "repairs",
+      "repaired",
+      "repair"
+     ],
+     "answer": 2
+    }
+   ],
+   "typing": [
+    {
+     "q": "He got his teeth ___ last month. (check)",
+     "answer": "checked",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "I had my bike ___ yesterday. (wash)",
+     "answer": "washed",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "She is having her eyes ___. (test)",
+     "answer": "tested",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "They had their house ___ by an architect. (design)",
+     "answer": "designed",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "We got our tickets ___ online. (book)",
+     "answer": "booked",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "He had his suit ___ for the wedding. (clean)",
+     "answer": "cleaned",
+     "hint": "Ketik jawaban yang tepat"
+    }
+   ]
+  },
+  {
+   "id": "g-b2-08",
+   "level": "B2",
+   "title": "Future Perfect & Future Continuous",
+   "explanation": "Future Perfect: kegiatan yang akan sudah selesai sebelum suatu waktu di masa depan (will have + verb-3). Future Continuous: kegiatan yang akan sedang berlangsung pada suatu waktu di masa depan (will be + verb-ing).",
+   "formula": "will have + verb-3  /  will be + verb-ing",
+   "examples": [
+    {
+     "en": "By 2030, I will have finished my studies.",
+     "id": "Pada tahun 2030, saya akan sudah menyelesaikan studi saya."
+    },
+    {
+     "en": "This time tomorrow, we will be flying to Jakarta.",
+     "id": "Besok jam segini, kami akan sedang terbang ke Jakarta."
+    },
+    {
+     "en": "She will have worked here for ten years in June.",
+     "id": "Pada bulan Juni, dia akan sudah bekerja di sini selama sepuluh tahun."
+    }
+   ],
+   "mc": [
+    {
+     "q": "By this time tomorrow, i ___ English every day.",
+     "options": [
+      "eat",
+      "ate",
+      "eaten",
+      "will have eaten"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "By this time tomorrow, She ___ in the park every morning.",
+     "options": [
+      "working",
+      "work",
+      "worked",
+      "will be working"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "By this time tomorrow, He ___ at school every day.",
+     "options": [
+      "will have watched",
+      "watching",
+      "watch",
+      "watched"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "By this time tomorrow, they ___ at home every evening.",
+     "options": [
+      "swim",
+      "will be swimming",
+      "swam",
+      "swum"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "By this time tomorrow, we ___ in the library every week.",
+     "options": [
+      "bought",
+      "buy",
+      "buying",
+      "will have bought"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "By this time tomorrow, Rina ___ at the office every day.",
+     "options": [
+      "lived",
+      "living",
+      "live",
+      "will be living"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "By this time tomorrow, My brother ___ at the market on Sundays.",
+     "options": [
+      "will have cleaned",
+      "clean",
+      "cleaned",
+      "cleaning"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "By this time tomorrow, The students ___ with friends every weekend.",
+     "options": [
+      "will be sleeping",
+      "slept",
+      "sleeping",
+      "sleep"
+     ],
+     "answer": 0
+    }
+   ],
+   "typing": [
+    {
+     "q": "By this time tomorrow, i ___ English every day.  (kata kerja: eat)",
+     "answer": "will have eaten",
+     "hint": "will have + verb-3 (Future Perfect) atau will be + verb-ing (Future Continuous)"
+    },
+    {
+     "q": "By this time tomorrow, She ___ in the park every morning.  (kata kerja: work)",
+     "answer": "will be working",
+     "hint": "will have + verb-3 (Future Perfect) atau will be + verb-ing (Future Continuous)"
+    },
+    {
+     "q": "By this time tomorrow, He ___ at school every day.  (kata kerja: watch)",
+     "answer": "will have watched",
+     "hint": "will have + verb-3 (Future Perfect) atau will be + verb-ing (Future Continuous)"
+    },
+    {
+     "q": "By this time tomorrow, they ___ at home every evening.  (kata kerja: swim)",
+     "answer": "will be swimming",
+     "hint": "will have + verb-3 (Future Perfect) atau will be + verb-ing (Future Continuous)"
+    },
+    {
+     "q": "By this time tomorrow, we ___ in the library every week.  (kata kerja: buy)",
+     "answer": "will have bought",
+     "hint": "will have + verb-3 (Future Perfect) atau will be + verb-ing (Future Continuous)"
+    },
+    {
+     "q": "By this time tomorrow, Rina ___ at the office every day.  (kata kerja: live)",
+     "answer": "will be living",
+     "hint": "will have + verb-3 (Future Perfect) atau will be + verb-ing (Future Continuous)"
+    }
+   ]
+  },
+  {
+   "id": "g-b2-09",
+   "level": "B2",
+   "title": "Modals in the Past (must have/could have)",
+   "explanation": "Must have + verb-3: kesimpulan yang hampir pasti tentang masa lalu. Could have + verb-3: sesuatu yang mungkin terjadi tetapi tidak terjadi. Should have + verb-3: penyesalan atau kritik (seharusnya dilakukan, tetapi tidak).",
+   "formula": "must/could/should have + verb-3",
+   "examples": [
+    {
+     "en": "She must have forgotten the meeting.",
+     "id": "Dia pasti lupa rapat itu."
+    },
+    {
+     "en": "You should have studied harder.",
+     "id": "Kamu seharusnya belajar lebih keras."
+    }
+   ],
+   "mc": [
+    {
+     "q": "She ___ forgotten the meeting. She never misses one.",
+     "options": [
+      "could have",
+      "should have",
+      "may have",
+      "must have"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "You ___ studied harder. Now you failed.",
+     "options": [
+      "could have",
+      "should have",
+      "may have",
+      "must have"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "He ___ missed the bus. That is why he is late.",
+     "options": [
+      "should have",
+      "could have",
+      "must have",
+      "may have"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "We ___ won the game if we had tried harder.",
+     "options": [
+      "could have",
+      "should have",
+      "may have",
+      "must have"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "I ___ called you, but I was too busy.",
+     "options": [
+      "should have",
+      "must have",
+      "could have",
+      "may have"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "They ___ left early. The house is empty.",
+     "options": [
+      "may have",
+      "must have",
+      "should have",
+      "could have"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "She ___ taken a taxi. It was raining heavily.",
+     "options": [
+      "must have",
+      "could have",
+      "may have",
+      "should have"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "He ___ seen the accident. He was there.",
+     "options": [
+      "must have",
+      "should have",
+      "could have",
+      "may have"
+     ],
+     "answer": 0
+    }
+   ],
+   "typing": [
+    {
+     "q": "You ___ told me the truth.",
+     "answer": "should have",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "It ___ been a great party. I wish I had come.",
+     "answer": "could have",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "She ___ been very tired after the trip.",
+     "answer": "must have",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "We ___ booked the tickets earlier.",
+     "answer": "should have",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "He ___ forgotten his keys again.",
+     "answer": "must have",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "They ___ arrived by now. It is already 9 o'clock.",
+     "answer": "should have",
+     "hint": "Ketik jawaban yang tepat"
+    }
+   ]
+  },
+  {
+   "id": "g-b2-10",
+   "level": "B2",
+   "title": "Discourse & Linking (however, although, despite)",
+   "explanation": "Although/though + klausa (meskipun), despite/in spite of + kata benda/-ing (meskipun), however = tetapi (di awal kalimat dengan koma), because = karena, therefore = oleh karena itu, in addition = sebagai tambahan.",
+   "formula": "Although + clause  /  Despite + noun/-ing  /  However, + clause",
+   "examples": [
+    {
+     "en": "Although it was raining, we went out.",
+     "id": "Meskipun hujan, kami tetap keluar."
+    },
+    {
+     "en": "Despite the rain, we went out.",
+     "id": "Meskipun hujan, kami tetap keluar."
+    }
+   ],
+   "mc": [
+    {
+     "q": "___ it was raining, we went out.",
+     "options": [
+      "Because",
+      "However",
+      "Although",
+      "Despite"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "___ the rain, we went out.",
+     "options": [
+      "Although",
+      "Because",
+      "However",
+      "Despite"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "It was raining. ___, we went out.",
+     "options": [
+      "Despite",
+      "However",
+      "Although",
+      "Because"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "She was tired, ___ she finished her work.",
+     "options": [
+      "despite",
+      "but",
+      "although",
+      "however"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "___ he is rich, he is not happy.",
+     "options": [
+      "Despite",
+      "Because",
+      "However",
+      "Although"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "He failed ___ he didn't study.",
+     "options": [
+      "despite",
+      "however",
+      "although",
+      "because"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "___ being tired, she continued working.",
+     "options": [
+      "Because",
+      "Although",
+      "However",
+      "Despite"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "The work was hard. ___, we finished on time.",
+     "options": [
+      "Despite",
+      "Because",
+      "Although",
+      "Therefore"
+     ],
+     "answer": 3
+    }
+   ],
+   "typing": [
+    {
+     "q": "He is very busy. ___, he always helps others.",
+     "answer": "However",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "___ the traffic jam, we arrived on time.",
+     "answer": "In spite of",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "I like tea. ___, I also like coffee.",
+     "answer": "In addition",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "She didn't come ___ she was sick.",
+     "answer": "because",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "___ he tried hard, he didn't pass.",
+     "answer": "Although",
+     "hint": "Ketik jawaban yang tepat"
+    },
+    {
+     "q": "It was very cold. ___, we enjoyed the trip.",
+     "answer": "Nevertheless",
+     "hint": "Ketik jawaban yang tepat"
+    }
+   ]
+  }
+ ]
+}
